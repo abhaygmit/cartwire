@@ -1,0 +1,24 @@
+::-webkit-scrollbar{
+    -webkit-appearance: none;
+    width: 7px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0,0,0,.5); 
+    -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+}
+
+
+/*End Lux India Widget*/
+#widgetPre{float:left; margin-top:10px;}
+#widgetPre .wdPop_mainInr{float:left; -webkit-box-shadow: 4px 4px 15px 1px rgba(50, 50, 50, 0.52);
+  -moz-box-shadow:    4px 4px 15px 1px rgba(50, 50, 50, 0.52);
+  box-shadow:         4px 4px 15px 1px rgba(50, 50, 50, 0.52);
+	border:1px solid #cccccc;  
+}
+#widgetPre .wdpopupouter_cw{float:left; -webkit-box-shadow: 4px 4px 15px 1px rgba(50, 50, 50, 0.52);
+  -moz-box-shadow:    4px 4px 15px 1px rgba(50, 50, 50, 0.52);
+  box-shadow:         4px 4px 15px 1px rgba(50, 50, 50, 0.52);
+  	border:1px solid #cccccc;
+}
+#widgetPre .knorrWgdt_outer{float:left;}

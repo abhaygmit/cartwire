@@ -1,0 +1,406 @@
+{
+  "took" : 9,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 56,
+    "max_score" : null,
+    "hits" : [ {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "135015",
+      "_score" : 3.3984523,
+      "_source":{"productId":135015,"productCode":428664,"productName":"Clear Futbol Topu","documentId":null,"contentShortText":"CLEAR FUTBOL TOPU","unitName":"AD","priceValue":0.05,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-futbol-topu","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1226,"categoryName":"Toplar","isParent":false},{"categoryId":1072,"categoryName":"Spor","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"clear, futbol, top, futbol topu,"},
+      "sort" : [ 3.3984523, "F", "Clear Futbol Topu" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "398521",
+      "_score" : 1.7097281,
+      "_source":{"productId":398521,"productCode":444188,"productName":"Clear Coolmen ?ampuan 350 ml + Clear Krem 180 ml","documentId":42142,"contentShortText":"","unitName":"AD","priceValue":8.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-coolmen-sampuan-350-ml-clear-krem-180-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, coolmen, sampuan, 350 ml, clear15"},
+      "sort" : [ 1.7097281, "T", "Clear Coolmen ?ampuan 350 ml + Clear Krem 180 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45413",
+      "_score" : 1.6948684,
+      "_source":{"productId":45413,"productCode":49204,"productName":"Clean&Clear Yüz Temizleme Jeli","documentId":736,"contentShortText":null,"unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clean-clear-yuz-temizleme-jeli","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",yuz temizleme jeli,temizlik jeli,clean&clear,bakim urunleri,cilt bakim urunleri,clean & clear,Clean and Clear ,bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 1.6948684, "T", "Clean&Clear Yüz Temizleme Jeli" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45414",
+      "_score" : 1.4857777,
+      "_source":{"productId":45414,"productCode":49205,"productName":"Clean&Clear Yüz Temizleme Jeli Peeling","documentId":737,"contentShortText":null,"unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clean-clear-yuz-temizleme-jeli-peeling","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",yuz temizleme jeli,temizlik jeli,clean&clear,bakim urunleri,cilt bakim urunleri,clean & clear,Clean and Clear ,bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 1.4857777, "T", "Clean&Clear Yüz Temizleme Jeli Peeling" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45412",
+      "_score" : 1.4857777,
+      "_source":{"productId":45412,"productCode":49203,"productName":"Clean&Clear Yüz Temizleme Losyonu Hassas","documentId":735,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clean-clear-yuz-temizleme-losyonu-hassas","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",yüz temizleme losyonu,temizlik losyonu,clean&clear,bakim urunleri,cilt bakim urunleri,clean & clear,Clean and Clear ,bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 1.4857777, "T", "Clean&Clear Yüz Temizleme Losyonu Hassas" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "135166",
+      "_score" : 1.4857777,
+      "_source":{"productId":135166,"productCode":428801,"productName":"Clear Bitkisel Sentez ?ampuan 650 ml","documentId":52347,"contentShortText":"","unitName":"AD","priceValue":16.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-bitkisel-sentez-sampuan-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear Bitkisel Sentez 650 ml + ?ampuan 180 ml, clear, Clear Bitkisel Sentez 650 ml,"},
+      "sort" : [ 1.4857777, "T", "Clear Bitkisel Sentez ?ampuan 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "108803",
+      "_score" : 1.4857777,
+      "_source":{"productId":108803,"productCode":393878,"productName":"Clear Cool Sport Menthol 1000 ml","documentId":21148,"contentShortText":"","unitName":"AD","priceValue":14.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-cool-sport-menthol-1000-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear 1000 ML Cool Sport Mentho,clear,?ampuan,clear ?ampuan,event06,0512014,111214"},
+      "sort" : [ 1.4857777, "T", "Clear Cool Sport Menthol 1000 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "55086",
+      "_score" : 1.4857777,
+      "_source":{"productId":55086,"productCode":294954,"productName":"Clear Komple Bak?m ?ampuan? 650 ml","documentId":53854,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-komple-bakim-sampuani-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clear 650 Ml Komple Bak?m Sampuan?,sampuan,sampuanlar,clear,komple bak?m sampuan?,sac bak?m,"},
+      "sort" : [ 1.4857777, "T", "Clear Komple Bak?m ?ampuan? 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "398294",
+      "_score" : 1.4857777,
+      "_source":{"productId":398294,"productCode":444187,"productName":"Clear Koparak ?ampuan 350 ml + 180 ml","documentId":42143,"contentShortText":"","unitName":"AD","priceValue":8.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-koparak-sampuan-350-ml-180-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, koparak, ?ampuan, 530ml,Clear Koparak ?ampuan 350 ml + 180 ml, clear15"},
+      "sort" : [ 1.4857777, "T", "Clear Koparak ?ampuan 350 ml + 180 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "403933",
+      "_score" : 1.4857777,
+      "_source":{"productId":403933,"productCode":451595,"productName":"Clear Men Cool Sport Menthol 900 ml","documentId":54281,"contentShortText":"","unitName":"AD","priceValue":15.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-cool-sport-menthol-900-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, Clear Men Cool Sport Menthol 900 ml, ?ampuan"},
+      "sort" : [ 1.4857777, "T", "Clear Men Cool Sport Menthol 900 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "114443",
+      "_score" : 1.4857777,
+      "_source":{"productId":114443,"productCode":409940,"productName":"Clear Men Du? Ferahl??? 350 ml","documentId":54131,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-dus-ferahligi-350-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear Men Du? Ferahl??? 350 ml"},
+      "sort" : [ 1.4857777, "T", "Clear Men Du? Ferahl??? 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "135107",
+      "_score" : 1.4857777,
+      "_source":{"productId":135107,"productCode":428811,"productName":"Clear Men H?zl? Stil ?ampuan 650 ml","documentId":52350,"contentShortText":"","unitName":"AD","priceValue":16.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-hizli-stil-sampuan-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear Man H?zl? Stil ?ampuan 650 ml + ?ampuan 180 ml, Clear Man H?zl? Stil ?ampuan 650 ml, Clear Men H?zl? Stil ?ampuan 650 ml"},
+      "sort" : [ 1.4857777, "T", "Clear Men H?zl? Stil ?ampuan 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "114474",
+      "_score" : 1.4857777,
+      "_source":{"productId":114474,"productCode":409948,"productName":"Clear Men ?ampuan Du? Ferahl??? 650 ml","documentId":54133,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-sampuan-dus-ferahligi-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear men ?ampuan, clear men ?ampuan du? ferahl???,sacbakimkampanya"},
+      "sort" : [ 1.4857777, "T", "Clear Men ?ampuan Du? Ferahl??? 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "108572",
+      "_score" : 1.4857777,
+      "_source":{"productId":108572,"productCode":196473,"productName":"Clear Women  ?ampuan Komple Bak?m 350 ml","documentId":25956,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-sampuan-komple-bakim-350-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear Women  ?ampuan Komple Bak?m 350 ml"},
+      "sort" : [ 1.4857777, "T", "Clear Women  ?ampuan Komple Bak?m 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "403941",
+      "_score" : 1.4857777,
+      "_source":{"productId":403941,"productCode":451594,"productName":"Clear Women Bitkisel Sentez ?ampuan 900 ml","documentId":54280,"contentShortText":"","unitName":"AD","priceValue":15.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-bitkisel-sentez-sampuan-900-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, women, Clear Women Bitkisel Sentez 900 ml, Clear Women Bitkisel Sentez ?ampuan 900 ml, ?ampuan"},
+      "sort" : [ 1.4857777, "T", "Clear Women Bitkisel Sentez ?ampuan 900 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "135179",
+      "_score" : 1.4857777,
+      "_source":{"productId":135179,"productCode":428789,"productName":"Clear Women Komple Bak?m ?ampuan  650 ml","documentId":52356,"contentShortText":"","unitName":"AD","priceValue":16.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-komple-bakim-sampuan-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear Women ?ampuan Komple Bak?m 650 ml + ?ampuan 180 ml, Clear Women Komple Bak?m ?ampuan  650 ml"},
+      "sort" : [ 1.4857777, "T", "Clear Women Komple Bak?m ?ampuan  650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "123882",
+      "_score" : 1.4857777,
+      "_source":{"productId":123882,"productCode":419529,"productName":"Clear Women ?ampuan Bitkisel Sentez 350 ml","documentId":54168,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-sampuan-bitkisel-sentez-350-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear women ?ampuan, clear women ?ampuan bitkisel sentez,sacbakimkampanya"},
+      "sort" : [ 1.4857777, "T", "Clear Women ?ampuan Bitkisel Sentez 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "123922",
+      "_score" : 1.4857777,
+      "_source":{"productId":123922,"productCode":419523,"productName":"Clear Women ?ampuan Bitkisel Sentez 650 ml","documentId":54167,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-sampuan-bitkisel-sentez-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear women ?ampuan, clear women ?ampuan bitkisel sentez,sacbakimkampanya"},
+      "sort" : [ 1.4857777, "T", "Clear Women ?ampuan Bitkisel Sentez 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "50998",
+      "_score" : 1.4857777,
+      "_source":{"productId":50998,"productCode":196475,"productName":"Clear Ya? Saç Derisi Dengeleyici 400 ml","documentId":53766,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-yag-sac-derisi-dengeleyici-400-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clear Ya? Saç Derisi Dengeleyici 400 ml ,clear,sampuan,clear sampuan,sacbakimkampanya"},
+      "sort" : [ 1.4857777, "T", "Clear Ya? Saç Derisi Dengeleyici 400 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "108802",
+      "_score" : 1.4857777,
+      "_source":{"productId":108802,"productCode":393906,"productName":"Clear Yumu?ak Parlak Saçlar 1 lt","documentId":42194,"contentShortText":"","unitName":"AD","priceValue":14.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-yumusak-parlak-saclar-1-lt","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear ,1000ML Yumu?ak,Parlak, ?a,event06,111214, Clear Yumu?ak Parlak Saçlar 1 lt"},
+      "sort" : [ 1.4857777, "T", "Clear Yumu?ak Parlak Saçlar 1 lt" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "63790",
+      "_score" : 1.4857777,
+      "_source":{"productId":63790,"productCode":347407,"productName":"Nivea Deo Sprey Black&White Clear Bayan ","documentId":53392,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"nivea-deo-sprey-black-white-clear-bayan-","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1147,"categoryName":"Kad?n Deodorant","isParent":false},{"categoryId":1063,"categoryName":"Kokular ve Deodorantlar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"temizlik1, Nivea Deo Inv B&W Clear 150 ml Bayan,nivea,n?vea deo,deo,deodorant,kad?n deo,kad?n deodorant,"},
+      "sort" : [ 1.4857777, "T", "Nivea Deo Sprey Black&White Clear Bayan " ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "63793",
+      "_score" : 1.4857777,
+      "_source":{"productId":63793,"productCode":347412,"productName":"Nivea Rollon Black&White Clear Bayan","documentId":53395,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"nivea-rollon-black-white-clear-bayan","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1147,"categoryName":"Kad?n Deodorant","isParent":false},{"categoryId":1063,"categoryName":"Kokular ve Deodorantlar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"temizlik1, Nivea Rollon- INV B&W Clear 50 ml Bayan,rolon,rol on,deo,deo rolon,nivea rolon,n?vea rolon,kad?n rolon,"},
+      "sort" : [ 1.4857777, "T", "Nivea Rollon Black&White Clear Bayan" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "47533",
+      "_score" : 1.4857777,
+      "_source":{"productId":47533,"productCode":113760,"productName":"Nivea Yüz  Tonik Stay Clear 150 ml","documentId":53320,"contentShortText":"","unitName":"AD","priceValue":17.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"nivea-yuz-tonik-stay-clear-150-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Nivea Visage Young Freshen Up Ferahlat?c? ,nivie,nivea visage,,81214   ,bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,Nivea Yüz  Tonik Stay Clear 150 ml,ciltbak?m15"},
+      "sort" : [ 1.4857777, "T", "Nivea Yüz  Tonik Stay Clear 150 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "101106",
+      "_score" : 1.4140292,
+      "_source":{"productId":101106,"productCode":393903,"productName":"Clear Women Komple Bak?m ?ampuan 650 ml + Clear Men Cool Sport ?ampuan 180 ml","documentId":21152,"contentShortText":"","unitName":"AD","priceValue":14.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-komple-bakim-sampuan-650-ml-clear-men-cool-sport-sampuan-180-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear women komple bak?m ?ampuan?, clear men cool sport ?ampuan"},
+      "sort" : [ 1.4140292, "T", "Clear Women Komple Bak?m ?ampuan 650 ml + Clear Men Cool Sport ?ampuan 180 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "100236",
+      "_score" : 1.4140292,
+      "_source":{"productId":100236,"productCode":393877,"productName":"Clear Women Ya?l? Saçlar ?ampuan 180 ml + Clear Men Saç Dökülmelerine Kar?? ?ampuan 650 ml","documentId":null,"contentShortText":"","unitName":"AD","priceValue":14.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-yagli-saclar-sampuan-180-ml-clear-men-sac-dokulmelerine-karsi-sampuan-650-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"clear, clear ya?l? saçlar için ?ampuan, clear men saç dökülmesine kar?? ?ampuan"},
+      "sort" : [ 1.4140292, "F", "Clear Women Ya?l? Saçlar ?ampuan 180 ml + Clear Men Saç Dökülmelerine Kar?? ?ampuan 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "135125",
+      "_score" : 1.2766873,
+      "_source":{"productId":135125,"productCode":428790,"productName":"Clear Men Cool Sport Menthol ?ampuan 650 ml","documentId":52351,"contentShortText":"","unitName":"AD","priceValue":16.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-cool-sport-menthol-sampuan-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear Men ?ampuan Cool Sport Menthol 650 ml + ?ampuan 180 ml, Clear Men ?ampuan Cool Sport Menthol 650 ml"},
+      "sort" : [ 1.2766873, "T", "Clear Men Cool Sport Menthol ?ampuan 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "50997",
+      "_score" : 1.2766873,
+      "_source":{"productId":50997,"productCode":196468,"productName":"Clear Men H?zl? Stil 2si 1 Arada ?ampuan 350 ml","documentId":53765,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-hizli-stil-2si-1-arada-sampuan-350-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clearmen 3 1 Express 400ml,clear,clearmen,clear men,sac,saclar,sampuan,sampuanlar,erkek sampuan?,erkek sampuanlar?, Clear Men H?zl? Stil 2si 1 Arada ?ampuan 350 ml"},
+      "sort" : [ 1.2766873, "T", "Clear Men H?zl? Stil 2si 1 Arada ?ampuan 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "55089",
+      "_score" : 1.2766873,
+      "_source":{"productId":55089,"productCode":294959,"productName":"Clear Men H?zl? Stil 2si 1 Arada ?ampuan 650 ml","documentId":53857,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-hizli-stil-2si-1-arada-sampuan-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clear Men 650 Ml H?zl? Stil Sampuan,clear,clear sampuan,sampuanlar,h?zl? stil sampuan,sac bak?m,sac temizlik, Clear Men H?zl? Stil 2si 1 Arada ?ampuan 650 ml"},
+      "sort" : [ 1.2766873, "T", "Clear Men H?zl? Stil 2si 1 Arada ?ampuan 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "55092",
+      "_score" : 1.2766873,
+      "_source":{"productId":55092,"productCode":294965,"productName":"Clear Men Koparak Dökülmelere Kar?? ?ampuan 650 ml","documentId":53859,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-koparak-dokulmelere-karsi-sampuan-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clear Men 650 Ml Koparak Dokulmelere Kars? Sampuan,sampuan,erkeler icin sampuan,sac dokulmesine kars? sampuan,dokulen saclara sampuan,sampuanlar,"},
+      "sort" : [ 1.2766873, "T", "Clear Men Koparak Dökülmelere Kar?? ?ampuan 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "403946",
+      "_score" : 1.2766873,
+      "_source":{"productId":403946,"productCode":451596,"productName":"Clear Men Saç Dökülmesine Kar?? Etkili Savunma 900 ml","documentId":54282,"contentShortText":"","unitName":"AD","priceValue":15.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-sac-dokulmesine-karsi-etkili-savunma-900-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, men, ?ampuan"},
+      "sort" : [ 1.2766873, "T", "Clear Men Saç Dökülmesine Kar?? Etkili Savunma 900 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "123845",
+      "_score" : 1.2766873,
+      "_source":{"productId":123845,"productCode":419520,"productName":"Clear Men Saç Kremi Bitkisel Sentez 350 ml","documentId":54166,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-sac-kremi-bitkisel-sentez-350-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear women saç kremi bitkisel,sacbakimkampanya,sacbakimkampanya,sacbakimkampanya,sacbakimkampanya"},
+      "sort" : [ 1.2766873, "T", "Clear Men Saç Kremi Bitkisel Sentez 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "50999",
+      "_score" : 1.2766873,
+      "_source":{"productId":50999,"productCode":196479,"productName":"Clear Men ?ampuan Cool Sport Menthol 350 ml","documentId":53768,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-sampuan-cool-sport-menthol-350-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clearmen ActivSport 400 ml,clear,sampuan,clear men,erkek sampuan?,sac,clear men activsport,"},
+      "sort" : [ 1.2766873, "T", "Clear Men ?ampuan Cool Sport Menthol 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "55091",
+      "_score" : 1.2766873,
+      "_source":{"productId":55091,"productCode":294962,"productName":"Clear Men ?ampuan Cool Sport Menthol 650 ml","documentId":53858,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-sampuan-cool-sport-menthol-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clear Men 650 ml Sportif Sampuan,clear men,erkekler icin sampuan,sampuan,sampuanlar,sac bak?m,"},
+      "sort" : [ 1.2766873, "T", "Clear Men ?ampuan Cool Sport Menthol 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "100765",
+      "_score" : 1.2766873,
+      "_source":{"productId":100765,"productCode":393904,"productName":"Clear Women 650 ml Yumu?ak Saçlar Men Cool","documentId":21153,"contentShortText":"","unitName":"AD","priceValue":14.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-650-ml-yumusak-saclar-men-cool","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear Women 650 ml Y.S. Men Cool"},
+      "sort" : [ 1.2766873, "T", "Clear Women 650 ml Yumu?ak Saçlar Men Cool" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "55088",
+      "_score" : 1.2766873,
+      "_source":{"productId":55088,"productCode":294956,"productName":"Clear Women Saç Dökülmesine Kar?? ?ampuan 650 ml","documentId":53856,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-sac-dokulmesine-karsi-sampuan-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clear 650 ml Koparak Dökülmelere Kar?? ?ampuan,sampuan,clear,clear sampuan,sac dokulmelerine kars? sampuan,sampuanlar,"},
+      "sort" : [ 1.2766873, "T", "Clear Women Saç Dökülmesine Kar?? ?ampuan 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "403943",
+      "_score" : 1.2766873,
+      "_source":{"productId":403943,"productCode":451593,"productName":"Clear Women Ya?l? Saç Derisi Etkili Kontrol ?ampuan 900 ml","documentId":52354,"contentShortText":"","unitName":"AD","priceValue":15.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-yagli-sac-derisi-etkili-kontrol-sampuan-900-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, ?ampuan, Clear Women Ya?l? Saç Derisi Etkili Kontrol 900 ml, Clear Women Ya?l? Saç Derisi Etkili Kontrol ?ampuan 900 ml"},
+      "sort" : [ 1.2766873, "T", "Clear Women Ya?l? Saç Derisi Etkili Kontrol ?ampuan 900 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "108801",
+      "_score" : 1.2766873,
+      "_source":{"productId":108801,"productCode":393852,"productName":"Clear Women Ya?l? Saç Derisi ?çin Etkin Kontrol 1 lt","documentId":52355,"contentShortText":"","unitName":"AD","priceValue":14.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-yagli-sac-derisi-icin-etkin-kontrol-1-lt","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear ,1000ML Ya?l? ,Saç ,Der,Kon,event06,111214, Clear Women Bitkisel Sentez ?ampuan? 1 lt"},
+      "sort" : [ 1.2766873, "T", "Clear Women Ya?l? Saç Derisi ?çin Etkin Kontrol 1 lt" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "55087",
+      "_score" : 1.2766873,
+      "_source":{"productId":55087,"productCode":294955,"productName":"Clear Women Ya?l? Saç Derisi ?çin ?ampuan 650 ml","documentId":53855,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-yagli-sac-derisi-icin-sampuan-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Clear 650 ml Ya?l? Saçlar Sampuan,sampuan,clear sampuan,yagl? saclar icin sampuan,sac bak?m,"},
+      "sort" : [ 1.2766873, "T", "Clear Women Ya?l? Saç Derisi ?çin ?ampuan 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "123909",
+      "_score" : 1.2766873,
+      "_source":{"productId":123909,"productCode":419518,"productName":"Clear Women ?ampuan Bitkisel Sentez Kuru Saçlara Özel 650 ml","documentId":54164,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-sampuan-bitkisel-sentez-kuru-saclara-ozel-650-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear women ?ampuan, clear women ?ampuan bitkisel sentez,sacbakimkampanya"},
+      "sort" : [ 1.2766873, "T", "Clear Women ?ampuan Bitkisel Sentez Kuru Saçlara Özel 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "123874",
+      "_score" : 1.2766873,
+      "_source":{"productId":123874,"productCode":419519,"productName":"Clear Women ?ampuan Bitkisel Sentez- Kuru Saçlara Özel 350 ml","documentId":54165,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-sampuan-bitkisel-sentez-kuru-saclara-ozel-350-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear women ?ampuan, clear ?ampuan bitkisel sentez, clear ?ampuan kuru saçlar için"},
+      "sort" : [ 1.2766873, "T", "Clear Women ?ampuan Bitkisel Sentez- Kuru Saçlara Özel 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "48325",
+      "_score" : 1.2766873,
+      "_source":{"productId":48325,"productCode":133524,"productName":"Clear&Clean Siyah Nokta Temizleme Jeli 150 ml","documentId":2024,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-clean-siyah-nokta-temizleme-jeli-150-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",clear&clean,temizleme jeli,jel,krem,yuz jeli,yuz kremi,siyah nokta kremi,siyah nokta jeli,siyah nokta temizleme kremi,siyah nokta temizleme jeli,clear clean,clear clean jel,clear clean siyah nokta temizleme jeli,siyah nokta,bak?m%50,bak?myüzde50,bak?myüzde50,bak?myüzde501,8martindirim,ciltbak?m15"},
+      "sort" : [ 1.2766873, "T", "Clear&Clean Siyah Nokta Temizleme Jeli 150 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "48324",
+      "_score" : 1.2766873,
+      "_source":{"productId":48324,"productCode":133523,"productName":"Clear&Clean Siyah Nokta Temizleme Losyonu 150 ml","documentId":2025,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-clean-siyah-nokta-temizleme-losyonu-150-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",clear&clean,clear clean,temizleme losyonu,losyon,siyah nokta temizleme losyonu,clear clean siyah nokta temizleme losyonu,temizleme losyonu,siyah nokta,bak?m%50,bak?myüzde50,bak?myüzde50,bak?myüzde501,8martindirim,ciltbak?m15"},
+      "sort" : [ 1.2766873, "T", "Clear&Clean Siyah Nokta Temizleme Losyonu 150 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "106665",
+      "_score" : 1.2766873,
+      "_source":{"productId":106665,"productCode":402668,"productName":"Neutrogena Visibly Clear 3in1 Temizleme Jeli 100 ml","documentId":25223,"contentShortText":"","unitName":"AD","priceValue":13.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"neutrogena-visibly-clear-3in1-temizleme-jeli-100-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Neutrogena Visibly Clear 3in1 Temizleme Jeli 100 ml, temizleme jeli,bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 1.2766873, "T", "Neutrogena Visibly Clear 3in1 Temizleme Jeli 100 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "106641",
+      "_score" : 1.2766873,
+      "_source":{"productId":106641,"productCode":402682,"productName":"Neutrogena Visibly Clear Ya?s?z Temizleme Jeli 200 ml","documentId":25233,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"neutrogena-visibly-clear-yagsiz-temizleme-jeli-200-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Neutrogena Visibly Clear Ya?s?z Temizleme Jeli 200 ml,jel,temizleme jei,yüz temizleme jeli,bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 1.2766873, "T", "Neutrogena Visibly Clear Ya?s?z Temizleme Jeli 200 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "79135",
+      "_score" : 1.2766873,
+      "_source":{"productId":79135,"productCode":378221,"productName":"Nivea Stick Black&White Clear Bayan 40 ml","documentId":53403,"contentShortText":"","unitName":"AD","priceValue":10.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"nivea-stick-black-white-clear-bayan-40-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1147,"categoryName":"Kad?n Deodorant","isParent":false},{"categoryId":1063,"categoryName":"Kokular ve Deodorantlar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Nivea10,Nivea B&W Stick Clear 40 Ml, nivea, bayan, clear"},
+      "sort" : [ 1.2766873, "T", "Nivea Stick Black&White Clear Bayan 40 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "181882",
+      "_score" : 1.2766873,
+      "_source":{"productId":181882,"productCode":196474,"productName":"Clear Women Kuru Saç Derisi Terapili ?ampuan 350 ml","documentId":null,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-kuru-sac-derisi-terapili-sampuan-350-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":false},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Clear Women Kuru Saç Derisi Terapili ?ampuan 350 ml, sampuan, clear,"},
+      "sort" : [ 1.2766873, "F", "Clear Women Kuru Saç Derisi Terapili ?ampuan 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "132217",
+      "_score" : 1.0675966,
+      "_source":{"productId":132217,"productCode":426023,"productName":"Clear Men ?ampuan Ya?l? Saç Derisi için  Maksimum Ferahl?k 650 ml","documentId":54200,"contentShortText":"","unitName":"AD","priceValue":12.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-sampuan-yagli-sac-derisi-icin-maksimum-ferahlik-650-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear men ?ampuan, clear men ?ampuan ya?l? saç için"},
+      "sort" : [ 1.0675966, "T", "Clear Men ?ampuan Ya?l? Saç Derisi için  Maksimum Ferahl?k 650 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "132221",
+      "_score" : 1.0675966,
+      "_source":{"productId":132221,"productCode":426030,"productName":"Clear Men ?ampuan Ya?l? Saç Derisi ?çin Maksimum Ferahl?k 350 ml","documentId":54201,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-men-sampuan-yagli-sac-derisi-icin-maksimum-ferahlik-350-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"clear, clear women ?ampuan, ?ampuan ya?l? saç derisi için, Clear Men ?ampuan Ya?l? Saç Derisi ?çin Maksimum Ferahl?k 350 ml"},
+      "sort" : [ 1.0675966, "T", "Clear Men ?ampuan Ya?l? Saç Derisi ?çin Maksimum Ferahl?k 350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "108806",
+      "_score" : 1.0675966,
+      "_source":{"productId":108806,"productCode":393853,"productName":"Clear Women ?ampuan Ya?l? Saç Derisi ?çin Etkin Kontrol 1 lt","documentId":54096,"contentShortText":"","unitName":"AD","priceValue":14.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clear-women-sampuan-yagli-sac-derisi-icin-etkin-kontrol-1-lt","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1136,"categoryName":"?ampuanlar","isParent":false},{"categoryId":1060,"categoryName":"Saç Bak?m ve Aksesuar","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Clear,1000ML Saç, Dökül,Kar??,event06,111214, Clear Women ?ampuan Ya?l? Saç Derisi ?çin Etkin Kontrol 1 lt"},
+      "sort" : [ 1.0675966, "T", "Clear Women ?ampuan Ya?l? Saç Derisi ?çin Etkin Kontrol 1 lt" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "79911",
+      "_score" : 0.84246254,
+      "_source":{"productId":79911,"productCode":379065,"productName":"Clean&Clear 3ü1 Arada Temizlik Jeli","documentId":35549,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clean-clear-3u1-arada-temizlik-jeli","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"bak?m%50,bak?myüzde50,bak?myüzde50,bak?myüzde501,8martindirim,ciltbak?m15"},
+      "sort" : [ 0.84246254, "T", "Clean&Clear 3ü1 Arada Temizlik Jeli" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "163228",
+      "_score" : 0.84246254,
+      "_source":{"productId":163228,"productCode":362660,"productName":"Garnier Ambre Solaire Clear 20Kf 200 ml","documentId":null,"contentShortText":"","unitName":"AD","priceValue":24.8,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"garnier-ambre-solaire-clear-20kf-200-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":false},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":1066,"categoryName":"Güne? Ürünleri","isParent":false},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"guneskremindirimli15"},
+      "sort" : [ 0.84246254, "F", "Garnier Ambre Solaire Clear 20Kf 200 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "55364",
+      "_score" : 0.73791724,
+      "_source":{"productId":55364,"productCode":298442,"productName":"Clean&Clear Derinlemesine Etkili Ferahlat?c? Yüz Jeli 200 ml","documentId":35331,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"clean-clear-derinlemesine-etkili-ferahlatici-yuz-jeli-200-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"bak?m%50,bak?myüzde50,bak?myüzde50,bak?myüzde501,8martindirim,ciltbak?m15"},
+      "sort" : [ 0.73791724, "T", "Clean&Clear Derinlemesine Etkili Ferahlat?c? Yüz Jeli 200 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "106699",
+      "_score" : 0.73791724,
+      "_source":{"productId":106699,"productCode":402681,"productName":"Neutrogena Visibly Clear 2in1 Maske ve Temizleme Jeli 150 ml","documentId":52304,"contentShortText":"","unitName":"AD","priceValue":13.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"neutrogena-visibly-clear-2in1-maske-ve-temizleme-jeli-150-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 0.73791724, "T", "Neutrogena Visibly Clear 2in1 Maske ve Temizleme Jeli 150 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "106633",
+      "_score" : 0.73791724,
+      "_source":{"productId":106633,"productCode":402691,"productName":"Neutrogena Visibly Clear Ar?nd?r?c? Yüz Temizleme Jeli 150 ml","documentId":52303,"contentShortText":"","unitName":"AD","priceValue":13.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"neutrogena-visibly-clear-arindirici-yuz-temizleme-jeli-150-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Neutr.V.Cle.AR.Yuz T.Jeli 150M,bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 0.73791724, "T", "Neutrogena Visibly Clear Ar?nd?r?c? Yüz Temizleme Jeli 150 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "106696",
+      "_score" : 0.73791724,
+      "_source":{"productId":106696,"productCode":402680,"productName":"Neutrogena Visibly Clear Siyah Nokta Temizleyici Peeling Jel 150 ml","documentId":25232,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"neutrogena-visibly-clear-siyah-nokta-temizleyici-peeling-jel-150-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 0.73791724, "T", "Neutrogena Visibly Clear Siyah Nokta Temizleyici Peeling Jel 150 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "106734",
+      "_score" : 0.73791724,
+      "_source":{"productId":106734,"productCode":402698,"productName":"Neutrogena Visibly Clear Siyah Nokta Temizleyici Tonik 200 ml","documentId":17920,"contentShortText":"","unitName":"AD","priceValue":13.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"neutrogena-visibly-clear-siyah-nokta-temizleyici-tonik-200-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1123,"categoryName":"Temizleme Ürünleri","isParent":false},{"categoryId":1122,"categoryName":"Yüz Bak?m Ürünleri","isParent":true},{"categoryId":1057,"categoryName":"Kad?n Ürünleri","isParent":true},{"categoryId":886,"categoryName":"Ki?isel Bak?m","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"bak?m%50,bak?myüzde50,bak?myüzde50,8martindirim,ciltbak?m15"},
+      "sort" : [ 0.73791724, "T", "Neutrogena Visibly Clear Siyah Nokta Temizleyici Tonik 200 ml" ]
+    } ]
+  }
+}

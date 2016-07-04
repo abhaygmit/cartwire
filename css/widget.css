@@ -1,0 +1,119 @@
+/*
+* @PageName: widget.css
+* @Company Name: STPL
+* @Author: Abhishek
+* @Purpose: Dynamic Genrate widget CSS 
+* @Date: 13-Dec-2013
+*/
+
+@charset "utf-8";
+/* CSS Document */
+
+.btns {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #F5F5F5;
+    background-image: linear-gradient(to bottom, #FFFFFF, #E6E6E6);
+    background-repeat: repeat-x;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) #B3B3B3;
+    border-image: none;
+    border-radius: 12px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset, 0 1px 2px rgba(0, 0, 0, 0.05);
+    color: #333333;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-bottom: 0;
+    padding: 4px 12px;
+    text-align: center;
+    vertical-align: middle;
+}
+/*border-radius:10px;*/
+.widgetListCont{float:left; width:800px; height:200px; border:none; margin-bottom:20px;}
+
+.widgetListUL{ float:left; list-style-type:none; width:98%; padding:5px 10px;}
+.widgetHd{float:left; width:700px; padding:10px 24px 10px 24px; color:#696969; font-size:16px; font-weight:bold; border-bottom:none;}/*width:94.3%;*/
+
+ul.widgetListUL li{ display:inline-block; padding:15px 0px; width:24.5%; margin-right:0px;}
+
+.widgetInnerCont{ float:left; width:100%;}
+.widgetImgCont{ float:left; width:100%; margin-bottom:15px; text-align:center;}
+.widgetBtn{ float:left; width:100%; text-align:center;}
+
+.btns-widget {font-size:13px; margin-top:0px; padding:5px 15px; border-radius:12px; color:#ffffff; 
+
+background: rgb(161,213,79); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(161,213,79,1) 1%, rgba(102,173,10,1) 27%, rgba(118,175,10,1) 68%, rgba(128,194,23,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,rgba(161,213,79,1)), color-stop(27%,rgba(102,173,10,1)), color-stop(68%,rgba(118,175,10,1)), color-stop(100%,rgba(128,194,23,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(161,213,79,1) 1%,rgba(102,173,10,1) 27%,rgba(118,175,10,1) 68%,rgba(128,194,23,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(161,213,79,1) 1%,rgba(102,173,10,1) 27%,rgba(118,175,10,1) 68%,rgba(128,194,23,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(161,213,79,1) 1%,rgba(102,173,10,1) 27%,rgba(118,175,10,1) 68%,rgba(128,194,23,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(161,213,79,1) 1%,rgba(102,173,10,1) 27%,rgba(118,175,10,1) 68%,rgba(128,194,23,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a1d54f', endColorstr='#80c217',GradientType=0 ); /* IE6-9 */
+
+}
+
+.btns-widget:hover, .btns-widget:focus, .btns-widget:active, .btns-widget.active, .btns-widget.disabled, .btns-widget[disabled] {
+    
+    color: #FFFFFF; border:1px solid #68AC37; 
+	
+	background: rgb(128,194,23); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(128,194,23,1) 0%, rgba(118,175,10,1) 51%, rgba(161,213,79,1) 99%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(128,194,23,1)), color-stop(51%,rgba(118,175,10,1)), color-stop(99%,rgba(161,213,79,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(128,194,23,1) 0%,rgba(118,175,10,1) 51%,rgba(161,213,79,1) 99%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(128,194,23,1) 0%,rgba(118,175,10,1) 51%,rgba(161,213,79,1) 99%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(128,194,23,1) 0%,rgba(118,175,10,1) 51%,rgba(161,213,79,1) 99%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(128,194,23,1) 0%,rgba(118,175,10,1) 51%,rgba(161,213,79,1) 99%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80c217', endColorstr='#a1d54f',GradientType=0 ); /* IE6-9 */
+}
+
+
+
+.widgetMainCont{ margin:0 auto; width:100%; padding-top:0px;}
+
+
+
+
+/*==========================================================/////////////////////////////////////=======================================*/
+.modelBox {
+	padding: 0px;
+	width: 800px;
+	height: auto;
+	position: relative;
+	display: none;
+}
+.closeDiv {
+     position: absolute;
+    right: -48px;
+    top: -11px;
+}
+ .modelBox_mid {
+	background: #fff;
+	padding: 25px 15px 25px 15px; float:left; width:800px; border-radius: 10px 10px 10px 10px;
+	border:0px solid #666;
+}
+ .img_watermark {
+	position: absolute;
+	right: 10px;
+	bottom: 10px;
+	font-size: 20px;
+	color: #fff;
+	opacity: .75;
+	background: #333;
+	padding: 15px;
+	font-weight: bold;
+	font-family: Verdana;
+}
+
+
+.close { opacity:1;}
+.close:hover, .close:focus{ opacity:1;}
+
+
+/*=========================================================================================*/

@@ -1,0 +1,1477 @@
+2015-05-07GMT10:25:57 INFO(1):: 27----PROCESS STARTED.----
+2015-05-07GMT10:25:57 INFO(1):: 52----BRAND PROCESS STARTED.----
+2015-05-07GMT10:25:57 INFO(1):: 56----BRAND SITEMAP SCRAP PROCESS RUNNING.----
+2015-05-07GMT10:26:01 INFO(1):: Array
+(
+    [0] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [1] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [2] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [3] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [4] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [5] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [6] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [7] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [8] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [9] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [10] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [11] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [12] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [13] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [14] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [15] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [16] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [17] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [18] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [19] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [20] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [21] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [22] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [23] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [24] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [25] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [26] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [27] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [28] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [29] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [30] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [31] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [32] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+)
+
+2015-05-07GMT10:26:01 INFO(1):: 544
+
+  
+    
+  
+ 
+   
+  Hello Admin,
+				
+				
+				
+				CLEAR - THAILAND Cron log detail on : 05/07/2015 10:26:01
+				
+				Cron Name : CLEAR - THAILAND :: Brand Sitemap Detail 
+				Total Number of URLS Found : 33 
+				Total Number of URLS Updated : 33 
+				Total Number of URLS Inserted : 0 
+				
+				Thanks, 
+				Support Team 
+				CartWire
+2015-05-07GMT10:26:01 INFO(1):: 61----SITEMAP URL SCRAPPING PROCESS FINISH.----
+2015-05-07GMT10:26:01 INFO(1):: 65----SCRAPPING BRAND's PRODUCT DETAIL.----
+2015-05-07GMT10:32:27 INFO(1):: 27----PROCESS STARTED.----
+2015-05-07GMT10:32:27 INFO(1):: 52----BRAND PROCESS STARTED.----
+2015-05-07GMT10:32:27 INFO(1):: 56----BRAND SITEMAP SCRAP PROCESS RUNNING.----
+2015-05-07GMT10:37:13 INFO(1):: 27----PROCESS STARTED.----
+2015-05-07GMT10:37:13 INFO(1):: 52----BRAND PROCESS STARTED.----
+2015-05-07GMT10:37:13 INFO(1):: 56----BRAND SITEMAP SCRAP PROCESS RUNNING.----
+2015-05-07GMT10:37:24 INFO(1):: Array
+(
+    [0] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [1] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [2] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [3] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [4] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [5] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [6] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [7] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [8] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [9] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [10] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [11] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [12] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [13] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [14] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [15] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [16] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [17] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [18] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [19] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [20] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [21] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [22] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [23] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [24] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [25] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [26] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [27] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [28] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [29] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [30] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [31] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [32] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+)
+
+2015-05-07GMT10:37:24 INFO(1):: 544
+
+  
+    
+  
+ 
+   
+  Hello Admin,
+				
+				
+				
+				CLEAR - THAILAND Cron log detail on : 05/07/2015 10:37:24
+				
+				Cron Name : CLEAR - THAILAND :: Brand Sitemap Detail 
+				Total Number of URLS Found : 33 
+				Total Number of URLS Updated : 33 
+				Total Number of URLS Inserted : 0 
+				
+				Thanks, 
+				Support Team 
+				CartWire
+2015-05-07GMT10:37:24 INFO(1):: 61----SITEMAP URL SCRAPPING PROCESS FINISH.----
+2015-05-07GMT10:37:24 INFO(1):: 65----SCRAPPING BRAND's PRODUCT DETAIL.----
+2015-05-07GMT10:40:26 INFO(1):: 27----PROCESS STARTED.----
+2015-05-07GMT10:40:26 INFO(1):: 52----BRAND PROCESS STARTED.----
+2015-05-07GMT10:40:27 INFO(1):: 56----BRAND SITEMAP SCRAP PROCESS RUNNING.----
+2015-05-07GMT10:40:29 INFO(1):: Array
+(
+    [0] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [1] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [2] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [3] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [4] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [5] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [6] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [7] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [8] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [9] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [10] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [11] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [12] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [13] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [14] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [15] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [16] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [17] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [18] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [19] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [20] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [21] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [22] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [23] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [24] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [25] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [26] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [27] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [28] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [29] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [30] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [31] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [32] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+)
+
+2015-05-07GMT10:40:29 INFO(1):: 544
+
+  
+    
+  
+ 
+   
+  Hello Admin,
+				
+				
+				
+				CLEAR - THAILAND Cron log detail on : 05/07/2015 10:40:29
+				
+				Cron Name : CLEAR - THAILAND :: Brand Sitemap Detail 
+				Total Number of URLS Found : 33 
+				Total Number of URLS Updated : 33 
+				Total Number of URLS Inserted : 0 
+				
+				Thanks, 
+				Support Team 
+				CartWire
+2015-05-07GMT10:40:29 INFO(1):: 61----SITEMAP URL SCRAPPING PROCESS FINISH.----
+2015-05-07GMT10:40:29 INFO(1):: 65----SCRAPPING BRAND's PRODUCT DETAIL.----
+2015-05-07GMT10:42:56 INFO(1):: 27----PROCESS STARTED.----
+2015-05-07GMT10:42:56 INFO(1):: 52----BRAND PROCESS STARTED.----
+2015-05-07GMT10:42:56 INFO(1):: 56----BRAND SITEMAP SCRAP PROCESS RUNNING.----
+2015-05-07GMT10:43:03 INFO(1):: Array
+(
+    [0] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [1] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [2] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [3] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [4] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [5] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [6] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [7] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [8] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [9] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [10] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [11] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [12] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [13] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [14] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [15] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [16] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [17] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [18] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [19] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [20] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [21] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [22] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [23] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+            [category] => 
+            [subcategory] => 
+        )
+
+    [24] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [25] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [26] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [27] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [28] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [29] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [30] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [31] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+    [32] => Array
+        (
+            [url] =>  http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+            [category] => 
+            [subcategory] => 
+        )
+
+)
+
+2015-05-07GMT10:43:03 INFO(1):: 545
+
+  
+    
+  
+ 
+   
+  Hello Admin,
+				
+				
+				
+				CLEAR - THAILAND Cron log detail on : 05/07/2015 10:43:03
+				
+				Cron Name : CLEAR - THAILAND :: Brand Sitemap Detail 
+				Total Number of URLS Found : 33 
+				Total Number of URLS Updated : 33 
+				Total Number of URLS Inserted : 0 
+				
+				Thanks, 
+				Support Team 
+				CartWire
+2015-05-07GMT10:43:03 INFO(1):: 61----SITEMAP URL SCRAPPING PROCESS FINISH.----
+2015-05-07GMT10:43:03 INFO(1):: 65----SCRAPPING BRAND's PRODUCT DETAIL.----
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2962
+    [buy_now_url] => http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Ice Cool Shampoo
+    [description] => With Cooling Mint
+    [image] => http://www.clearadth.com/Images/2696/2696-806687-03_Products_Women_Shampoo_Clean__Fresh_Ice_Cool_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2963
+    [buy_now_url] => http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Complete Care Shampoo
+    [description] => With A Blend Of 10 Nutrients ##based on clinical test data after one week
+    [image] => http://www.clearadth.com/Images/2696/2696-806689-05_Products_Women_Shampoo_Nourish_Complete_Care_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2964
+    [buy_now_url] => http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Herbal Fusion Shampoo
+    [description] => With TCM Herbs
+    [image] => http://www.clearadth.com/Images/2696/2696-806691-07_Products_Women_Shampoo_Nourish_Herbal_Fusion_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2965
+    [buy_now_url] => http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Clear Sakura Fresh Anti-Dandruff Nourishing Shampoo
+    [description] => With Sakura Flower Extract for Fresh Sakura Fragrant Hair
+    [image] => http://www.clearadth.com/Images/2696/2696-849293-Products_Women_Shampoo_Nourish_Sakura_460x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2966
+    [buy_now_url] => http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Shampoo
+    [description] => With Nutrium Ginseng ## Hairfall due to breakage Vs non conditioning shampoo ^^^ based on lab test used with whole system
+    [image] => http://www.clearadth.com/Images/2696/2696-806693-09_Products_Women_Shampoo_Hair_Hairfall_Defence_360x300.png.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2967
+    [buy_now_url] => http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Ice Cool Shampoo
+    [description] => With Cooling Mint
+    [image] => http://www.clearadth.com/Images/2696/2696-806687-03_Products_Women_Shampoo_Clean__Fresh_Ice_Cool_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2968
+    [buy_now_url] => http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Complete Care Shampoo
+    [description] => With A Blend Of 10 Nutrients ##based on clinical test data after one week
+    [image] => http://www.clearadth.com/Images/2696/2696-806689-05_Products_Women_Shampoo_Nourish_Complete_Care_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2969
+    [buy_now_url] => http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Herbal Fusion Shampoo
+    [description] => With TCM Herbs
+    [image] => http://www.clearadth.com/Images/2696/2696-806691-07_Products_Women_Shampoo_Nourish_Herbal_Fusion_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2970
+    [buy_now_url] => http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Shampoo
+    [description] => With Nutrium Ginseng ## Hairfall due to breakage Vs non conditioning shampoo ^^^ based on lab test used with whole system
+    [image] => http://www.clearadth.com/Images/2696/2696-806693-09_Products_Women_Shampoo_Hair_Hairfall_Defence_360x300.png.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2971
+    [buy_now_url] => http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Clear Sakura Fresh Anti-Dandruff Nourishing Shampoo
+    [description] => With Sakura Flower Extract for Fresh Sakura Fragrant Hair
+    [image] => http://www.clearadth.com/Images/2696/2696-849293-Products_Women_Shampoo_Nourish_Sakura_460x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2972
+    [buy_now_url] => http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Clear Ice Cool Menthol Nourishing Conditioner
+    [description] => Revives scalp and hair with a frefreshing sensation
+    [image] => http://www.clearadth.com/Images/2696/2696-851303-Products_Women_Conditioner_Hair_Ice_Cool_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2973
+    [buy_now_url] => http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Complete Care Conditioner
+    [description] => With A Blend Of 10 Nutrients ##based on clinical test data after one week, when used together with CLEAR Shampoo
+    [image] => http://www.clearadth.com/Images/2696/2696-806650-14_Products_Women_Conditioner_Nourish_Complete_Care_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2974
+    [buy_now_url] => http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Conditioner
+    [description] => With Nutrium Ginseng ##Hairfall due to breakage vs non-conditioning shampoo ^^^ Based on lab test when used with whole CLEAR system
+    [image] => http://www.clearadth.com/Images/2696/2696-806654-18_Products_Women_Conditioner_Hair_Hairfall_Defence_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2975
+    [buy_now_url] => http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Clear Ice Cool Menthol Nourishing Conditioner
+    [description] => Revives scalp and hair with a frefreshing sensation
+    [image] => http://www.clearadth.com/Images/2696/2696-851303-Products_Women_Conditioner_Hair_Ice_Cool_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2976
+    [buy_now_url] => http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Complete Care Conditioner
+    [description] => With A Blend Of 10 Nutrients ##based on clinical test data after one week, when used together with CLEAR Shampoo
+    [image] => http://www.clearadth.com/Images/2696/2696-806650-14_Products_Women_Conditioner_Nourish_Complete_Care_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2977
+    [buy_now_url] => http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Conditioner
+    [description] => With Nutrium Ginseng ##Hairfall due to breakage vs non-conditioning shampoo ^^^ Based on lab test when used with whole CLEAR system
+    [image] => http://www.clearadth.com/Images/2696/2696-806654-18_Products_Women_Conditioner_Hair_Hairfall_Defence_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2978
+    [buy_now_url] => http://www.clearadth.com/product/detail/806759/ice-cool-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Ice Cool Shampoo
+    [description] => With Cooling Mint
+    [image] => http://www.clearadth.com/Images/2696/2696-806687-03_Products_Women_Shampoo_Clean__Fresh_Ice_Cool_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2979
+    [buy_now_url] => http://www.clearadth.com/product/detail/806766/complete-care-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Complete Care Shampoo
+    [description] => With A Blend Of 10 Nutrients ##based on clinical test data after one week
+    [image] => http://www.clearadth.com/Images/2696/2696-806689-05_Products_Women_Shampoo_Nourish_Complete_Care_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2980
+    [buy_now_url] => http://www.clearadth.com/product/detail/806763/herbal-fusion-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Herbal Fusion Shampoo
+    [description] => With TCM Herbs
+    [image] => http://www.clearadth.com/Images/2696/2696-806691-07_Products_Women_Shampoo_Nourish_Herbal_Fusion_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2981
+    [buy_now_url] => http://www.clearadth.com/product/detail/806769/hairfall-defence-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Shampoo
+    [description] => With Nutrium Ginseng ## Hairfall due to breakage Vs non conditioning shampoo ^^^ based on lab test used with whole system
+    [image] => http://www.clearadth.com/Images/2696/2696-806693-09_Products_Women_Shampoo_Hair_Hairfall_Defence_360x300.png.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2982
+    [buy_now_url] => http://www.clearadth.com/product/detail/849432/clear-ice-cool-menthol-nourishing-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Clear Ice Cool Menthol Nourishing Conditioner
+    [description] => Revives scalp and hair with a frefreshing sensation
+    [image] => http://www.clearadth.com/Images/2696/2696-851303-Products_Women_Conditioner_Hair_Ice_Cool_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2983
+    [buy_now_url] => http://www.clearadth.com/product/detail/806768/complete-care-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Complete Care Conditioner
+    [description] => With A Blend Of 10 Nutrients ##based on clinical test data after one week, when used together with CLEAR Shampoo
+    [image] => http://www.clearadth.com/Images/2696/2696-806650-14_Products_Women_Conditioner_Nourish_Complete_Care_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2984
+    [buy_now_url] => http://www.clearadth.com/product/detail/846399/clear-sakura-fresh-anti-dandruff-nourishing-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Clear Sakura Fresh Anti-Dandruff Nourishing Shampoo
+    [description] => With Sakura Flower Extract for Fresh Sakura Fragrant Hair
+    [image] => http://www.clearadth.com/Images/2696/2696-849293-Products_Women_Shampoo_Nourish_Sakura_460x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Women
+    [product_url_id] => 2985
+    [buy_now_url] => http://www.clearadth.com/product/detail/806771/hairfall-defence-conditioner
+    [sub_category] => Conditioner
+    [subcategory] => Conditioner
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Conditioner
+    [description] => With Nutrium Ginseng ##Hairfall due to breakage vs non-conditioning shampoo ^^^ Based on lab test when used with whole CLEAR system
+    [image] => http://www.clearadth.com/Images/2696/2696-806654-18_Products_Women_Conditioner_Hair_Hairfall_Defence_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2986
+    [buy_now_url] => http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Deep Clean Shampoo
+    [description] => With Activated Charcoal & Mint
+    [image] => http://www.clearadth.com/Images/2696/2696-806697-26_Products_Men_Shampoo_Clean__Fresh_Deep_Clear_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2987
+    [buy_now_url] => http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Cool Sport Shampoo
+    [description] => With Cooling Mint ^^^From CLEAR
+    [image] => http://www.clearadth.com/Images/2696/2696-806699-28_Products_Men_Shampoo_Clean__Fresh_Cool_Sport_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2988
+    [buy_now_url] => http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Shampoo
+    [description] => With Nutrium Ginseng ^^^ Based on lab test when used with whole system
+    [image] => http://www.clearadth.com/Images/2696/2696-806704-33_Products_Men_Shampoo_Hair_Hairfall_Defence_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2989
+    [buy_now_url] => http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Deep Clean Shampoo
+    [description] => With Activated Charcoal & Mint
+    [image] => http://www.clearadth.com/Images/2696/2696-806697-26_Products_Men_Shampoo_Clean__Fresh_Deep_Clear_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2990
+    [buy_now_url] => http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Cool Sport Shampoo
+    [description] => With Cooling Mint ^^^From CLEAR
+    [image] => http://www.clearadth.com/Images/2696/2696-806699-28_Products_Men_Shampoo_Clean__Fresh_Cool_Sport_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2991
+    [buy_now_url] => http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Shampoo
+    [description] => With Nutrium Ginseng ^^^ Based on lab test when used with whole system
+    [image] => http://www.clearadth.com/Images/2696/2696-806704-33_Products_Men_Shampoo_Hair_Hairfall_Defence_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2992
+    [buy_now_url] => http://www.clearadth.com/product/detail/806788/deep-clean-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Deep Clean Shampoo
+    [description] => With Activated Charcoal & Mint
+    [image] => http://www.clearadth.com/Images/2696/2696-806697-26_Products_Men_Shampoo_Clean__Fresh_Deep_Clear_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2993
+    [buy_now_url] => http://www.clearadth.com/product/detail/806785/cool-sport-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Cool Sport Shampoo
+    [description] => With Cooling Mint ^^^From CLEAR
+    [image] => http://www.clearadth.com/Images/2696/2696-806699-28_Products_Men_Shampoo_Clean__Fresh_Cool_Sport_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: Array
+(
+    [category] => Men
+    [product_url_id] => 2994
+    [buy_now_url] => http://www.clearadth.com/product/detail/806786/hairfall-defence-shampoo
+    [sub_category] => Shampoo
+    [subcategory] => Shampoo
+    [sitemap_url_xpath] => 
+    [title] => Hairfall Defence Shampoo
+    [description] => With Nutrium Ginseng ^^^ Based on lab test when used with whole system
+    [image] => http://www.clearadth.com/Images/2696/2696-806704-33_Products_Men_Shampoo_Hair_Hairfall_Defence_360x300.png
+)
+
+2015-05-07GMT10:44:46 INFO(1):: 498I:33U:0D:0

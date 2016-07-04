@@ -1,0 +1,777 @@
+{
+  "took" : 9,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 109,
+    "max_score" : null,
+    "hits" : [ {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "396419",
+      "_score" : 1.8728182,
+      "_source":{"productId":396419,"productCode":441315,"productName":"Omo S?v? Special 2700Ml Copack","documentId":null,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-special-2700ml-copack","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"temizlikgdn,deterjankampanya0915,deterjankampanya0915, omo s?v? detejan, deterjan, omo, "},
+      "sort" : [ 1.8728182, "F", "Omo S?v? Special 2700Ml Copack" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "46408",
+      "_score" : 1.5867617,
+      "_source":{"productId":46408,"productCode":84577,"productName":"Omo Elde Y?kama Toz Deterjan 1.5 kg","documentId":33700,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-elde-yikama-toz-deterjan-1-5-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",omo,toz deterjan,omo toz,omo toz deterjan,,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.5867617, "T", "Omo Elde Y?kama Toz Deterjan 1.5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "111652",
+      "_score" : 1.3960569,
+      "_source":{"productId":111652,"productCode":288693,"productName":"*Omo Matik Toz Çama??r Deterjan? Color 40 Y?kama 6 kg","documentId":53833,"contentShortText":"","unitName":"AD","priceValue":28.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-matik-toz-camasir-deterjani-color-40-yikama-6-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"mayistemizlik, omomatik, omo, omo matik, deterjan, çama??r deterjan?, color, omo color, haftasonuindirimi,yüzde25indirim"},
+      "sort" : [ 1.3960569, "T", "*Omo Matik Toz Çama??r Deterjan? Color 40 Y?kama 6 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "98985",
+      "_score" : 1.1576762,
+      "_source":{"productId":98985,"productCode":397026,"productName":" Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Yumo? Gül Yasemin 20 Y?kama 700 ml","documentId":33812,"contentShortText":"","unitName":"AD","priceValue":15.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-yumos-gul-yasemin-20-yikama-700-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"oral b, oralb, ob, a??z suyu, agiz suyu, luxe, gargara,  Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Yumo? Gül Yasemin 20 Y?kama 700 ml,,hediye21,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", " Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Yumo? Gül Yasemin 20 Y?kama 700 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "125519",
+      "_score" : 1.1576762,
+      "_source":{"productId":125519,"productCode":421041,"productName":" Omo S?v? Yar? Konsantre Çama??r Deterjan? Active 36 Y?kama 2700 ml","documentId":54180,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-yari-konsantre-camasir-deterjani-active-36-yikama-2700-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omo, S?v? ,Act?ve, 36 Y?kama, (270,  Omo S?v? Yar? Konsantre Çama??r Deterjan? Active 36 Y?kama 2700 ml,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", " Omo S?v? Yar? Konsantre Çama??r Deterjan? Active 36 Y?kama 2700 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "125526",
+      "_score" : 1.1576762,
+      "_source":{"productId":125526,"productCode":421052,"productName":" Omo S?v? Yar? Konsantre Çama??r Deterjan? Color 18 Y?kama 1350 ml","documentId":54183,"contentShortText":"","unitName":"AD","priceValue":14.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-yari-konsantre-camasir-deterjani-color-18-yikama-1350-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"omomailing205,Omo S?v? Color 18 Y?kama (1350,Omo S?v? Color ,omo,yumu?at?c?lar,hediye21,  Omo S?v? Yar? Konsantre Çama??r Deterjan? Color 18 Y?kama 1350 ml,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", " Omo S?v? Yar? Konsantre Çama??r Deterjan? Color 18 Y?kama 1350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "59590",
+      "_score" : 1.1576762,
+      "_source":{"productId":59590,"productCode":328020,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active 20 Y?kama 700 ml","documentId":53907,"contentShortText":"","unitName":"AD","priceValue":14.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-active-20-yikama-700-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",omo,omomatik,deterjan,matik deterjan,camas?r deterjan?,camas?r deterjanlar?,camas?r deterjan?,camas?r,,Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Active 20 Y?kama 700 ml,hediye21,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active 20 Y?kama 700 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "59588",
+      "_score" : 1.1576762,
+      "_source":{"productId":59588,"productCode":328018,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active 40 Y?kama 1400 ml","documentId":53906,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":26.9,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-active-40-yikama-1400-ml-328018","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":956,"categoryName":"Temizlik","isParent":false},{"categoryId":888,"categoryName":"Katalog Ürünleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik S?v? Total 1400 Gr,omomatik,omo,omo deterjan,matik deterjan,omomatik s?v?,camas?r makinas? deterjan?,matik s?v? deterjan,Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Active 40 Y?kama 1400 ml,170315a, omo115,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active 40 Y?kama 1400 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "59596",
+      "_score" : 1.1576762,
+      "_source":{"productId":59596,"productCode":328026,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 20 Y?kama 700 ml","documentId":53910,"contentShortText":"","unitName":"AD","priceValue":14.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-active-fresh-20-yikama-700-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik S?v? Total Fresh 700 Gr,omo,omomatik,omomatik s?v?,s?v? camas?r deterjan?,camas?r deterjan?,matik deterjan,deterjan,deterjanlar,makina deterjan?,Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 20 Y?kama 700 ml,,hediye21,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 20 Y?kama 700 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "59593",
+      "_score" : 1.1576762,
+      "_source":{"productId":59593,"productCode":328023,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 40 Y?kama 1400 ml","documentId":53908,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":26.9,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-active-fresh-40-yikama-1400-ml-328023","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":956,"categoryName":"Temizlik","isParent":false},{"categoryId":888,"categoryName":"Katalog Ürünleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik S?v? Total Fresh 1400 g, omomatik,omo,omomatik s?v?,omomatik deterjan,matik deterjan,deterjan,camas?r makinas? deterjan?,deterjanlar,camas?r deterjan?,Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 40 Y?kama 1400 ml,omo1115,170315a,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 40 Y?kama 1400 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "102809",
+      "_score" : 1.1576762,
+      "_source":{"productId":102809,"productCode":397027,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Sensitive 20 Y?kama 700 ml","documentId":54104,"contentShortText":"","unitName":"AD","priceValue":14.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-sensitive-20-yikama-700-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"omo,yumo? gül yasemin,yumos gül yasemin,yumo?,yumos,omo yumo? gül yasemin 700 ml,deterjan,deterjanlar,Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Sensitive 20 Y?kama 700 ml,hediye21,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Sensitive 20 Y?kama 700 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "102751",
+      "_score" : 1.1576762,
+      "_source":{"productId":102751,"productCode":397018,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Sensitive 40 Y?kama 1400 ml","documentId":54100,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":26.9,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-sensitive-40-yikama-1400-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":956,"categoryName":"Temizlik","isParent":false},{"categoryId":888,"categoryName":"Katalog Ürünleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"omo,yumo? gül yasemin,yumos gül yasemin,yumo?,yumos,omo yumo? gül yasemin 1400 ml,deterjan,deterjanlar, Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Sensitive 40 Y?kama 1400 ml,yüzde25indirim,170315a, omo1115,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Sensitive 40 Y?kama 1400 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "92661",
+      "_score" : 1.1576762,
+      "_source":{"productId":92661,"productCode":397023,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Yumo? Gül Yasemin 40 Y?kama 1400 ml","documentId":33776,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":26.9,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-yumos-gul-yasemin-40-yikama-1400-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Yumo? Gül Yasemin 40 Y?kama 1400 ml,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Yumo? Gül Yasemin 40 Y?kama 1400 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "125523",
+      "_score" : 1.1576762,
+      "_source":{"productId":125523,"productCode":421053,"productName":"Omo S?v? Yar? Konsantre Çama??r Deterjan? Active 18 Y?kama 1350 ml","documentId":54184,"contentShortText":"","unitName":"AD","priceValue":14.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-yari-konsantre-camasir-deterjani-active-18-yikama-1350-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omo S?v? Yar? Konsantre Çama??r Deterjan? Active 18 Y?kama 1350 ml, omomailing205, Omo S?v? Act?ve 18 Y?kama (135,Omo S?v? Act?ve,yumu?at?c?lar,omo,hediye21,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Yar? Konsantre Çama??r Deterjan? Active 18 Y?kama 1350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "125531",
+      "_score" : 1.1576762,
+      "_source":{"productId":125531,"productCode":421043,"productName":"Omo S?v? Yar? Konsantre Çama??r Deterjan? Black 18 Y?kama 1350 ml","documentId":54181,"contentShortText":"","unitName":"AD","priceValue":14.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-yari-konsantre-camasir-deterjani-black-18-yikama-1350-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omo S?v? Yar? Konsantre Çama??r Deterjan? Black 18 Y?kama 1350 ml, omomailing205, Omo S?v? Black 18 Y?kama ,hediye21,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Yar? Konsantre Çama??r Deterjan? Black 18 Y?kama 1350 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "125424",
+      "_score" : 1.1576762,
+      "_source":{"productId":125424,"productCode":421044,"productName":"Omo S?v? Yar? Konsantre Çama??r Deterjan? Black 36 Y?kama 2700 ml","documentId":54182,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-yari-konsantre-camasir-deterjani-black-36-yikama-2700-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omo,S?v?, Black ,36 ,Y?kama, Omo S?v? Yar? Konsantre Çama??r Deterjan? Black 36 Y?kama 2700 ml,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Yar? Konsantre Çama??r Deterjan? Black 36 Y?kama 2700 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "125435",
+      "_score" : 1.1576762,
+      "_source":{"productId":125435,"productCode":421054,"productName":"Omo S?v? Yar? Konsantre Çama??r Deterjan? Color 36 Y?kama 2700 ml","documentId":54185,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-yari-konsantre-camasir-deterjani-color-36-yikama-2700-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omo ,S?v? ,Color, 36 ,Y?kama(2700, Omo S?v? Yar? Konsantre Çama??r Deterjan? Color 36 Y?kama 2700 ml,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Yar? Konsantre Çama??r Deterjan? Color 36 Y?kama 2700 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "59597",
+      "_score" : 1.1576762,
+      "_source":{"productId":59597,"productCode":328027,"productName":"Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Color 20 Y?kama 700 ml","documentId":53911,"contentShortText":"","unitName":"AD","priceValue":14.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-yari-konsantre-camasir-deterjani-ultra-color-20-yikama-700-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik S?v? Total Color 700 Gr,omo,omomatik,omo s?v?,omomatik s?v?,omomatik s?v? deterjan,renkli camas?r deterjan?,matik deterjan,camas?r deterjan?,deterjan,omomatik deterjan,deterjanlar,camas?r makinas? deterjan?,konsantre deterjan,,,hediye21,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Color 20 Y?kama 700 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "59594",
+      "_score" : 1.1576762,
+      "_source":{"productId":59594,"productCode":328024,"productName":"Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Color 40 Y?kama 1400 ml","documentId":53909,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":26.9,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-yari-konsantre-camasir-deterjani-ultra-color-40-yikama-1400-ml","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":956,"categoryName":"Temizlik","isParent":false},{"categoryId":888,"categoryName":"Katalog Ürünleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":1000010,"categoryName":"G?da D???","isParent":false}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik S?v? Total Color 1400 Gr,omomatik,omo,omomatik deterjan,matik deterjan,omomatik s?v?,omomatik color,colormatik,omomatik color,camas?r deterjan?,camas?r makinas? deterjan?,deterjanlar,omomatik s?v? deterjan, Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Color 40 Y?kama 1400 ml,omo1115,170315a,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "T", "Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Color 40 Y?kama 1400 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "98462",
+      "_score" : 1.1576762,
+      "_source":{"productId":98462,"productCode":391683,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active 40 Y?kama 1400 ml","documentId":null,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":26.9,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-active-40-yikama-1400-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Omo S?v? 1400 ML ,Saklama Kab?, 1,7L, Omo S?v? Yar? Konsantre Çama??r Deterjan? Ultra Active 40 Y?kama 1400 ml,yüzde25indirim,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "F", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active 40 Y?kama 1400 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "98458",
+      "_score" : 1.1576762,
+      "_source":{"productId":98458,"productCode":391513,"productName":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 40 Y?kama 1400 ml","documentId":null,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":26.9,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omo-sivi-tam-konsantre-camasir-deterjani-ultra-active-fresh-40-yikama-1400-ml","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 40 Y?kama 1400 ml,temizlikgdn,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 1.1576762, "F", "Omo S?v? Tam Konsantre Çama??r Deterjan? Ultra Active Fresh 40 Y?kama 1400 ml" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "83091",
+      "_score" : 0.19707158,
+      "_source":{"productId":83091,"productCode":382992,"productName":" Omomatik Toz Çama??r Deterjan? Yumo? Lavanta Manolya 33 Y?kama 5 kg","documentId":33712,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-yumos-lavanta-manolya-33-yikama-5-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"omo,omo s?v? saf beyaz,saf beyaz,s?v? saf beyaz,700ml,deterjan,deterjanlar,  Omomatik Toz Çama??r Deterjan? Yumo? Lavanta Manolya 33 Y?kama 5 kg,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", " Omomatik Toz Çama??r Deterjan? Yumo? Lavanta Manolya 33 Y?kama 5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "95924",
+      "_score" : 0.19707158,
+      "_source":{"productId":95924,"productCode":387257,"productName":"*Enjoy Kedi Mamas? 1 kg","documentId":25034,"contentShortText":"","unitName":"AD","priceValue":6.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"enjoy-kedi-mamasi-1-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1484,"categoryName":"Kuru Mamalar","isParent":false},{"categoryId":1232,"categoryName":"Kedi","isParent":true},{"categoryId":1075,"categoryName":"Petshop ve Bahçe","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"1 KG Promo Kedi Mamas?,mamalar,kedi mamalar?,landingposition21,petshop010415"},
+      "sort" : [ 0.19707158, "T", "*Enjoy Kedi Mamas? 1 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54476",
+      "_score" : 0.19707158,
+      "_source":{"productId":54476,"productCode":288658,"productName":"*Omomatik Toz Çama??r Deterjan? Active Fresh 40 Y?kama 6 kg","documentId":53827,"contentShortText":"","unitName":"AD","priceValue":28.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-active-fresh-40-yikama-6-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"mayistemizlik, haftasonuindirimi, Omomatik Act?ve Fresh,omo,omomatik,deterjan,matik deterjan,camas?r deterjan?,deterjanlar,,yüzde25indirim"},
+      "sort" : [ 0.19707158, "T", "*Omomatik Toz Çama??r Deterjan? Active Fresh 40 Y?kama 6 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "86759",
+      "_score" : 0.19707158,
+      "_source":{"productId":86759,"productCode":31587,"productName":"*Somon Dilim","documentId":47400,"contentShortText":"","unitName":"KG","priceValue":32.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":2,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"somon-dilim","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":855,"categoryName":"Et-Bal?k-Tavuk & ?arküteri","isParent":false},{"categoryId":888,"categoryName":"Katalog Ürünleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":957,"categoryName":"G?da","isParent":false},{"categoryId":888,"categoryName":"Katalog Ürünleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":937,"categoryName":"Deniz - Tatl?su Av Bal?klar?","isParent":false},{"categoryId":921,"categoryName":"Bal?k ve Deniz Mahsülleri","isParent":true},{"categoryId":879,"categoryName":"Et & Bal?k & ?arküteri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Somon Dilim,somon,somon dilim, bal?k"},
+      "sort" : [ 0.19707158, "T", "*Somon Dilim" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45674",
+      "_score" : 0.19707158,
+      "_source":{"productId":45674,"productCode":58714,"productName":"Alarko Somon Past?rma 110 g","documentId":26296,"contentShortText":"","unitName":"AD","priceValue":14.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"alarko-somon-pastirma-110-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",ALARKO S0MON PASTIRMA 110 GR,ALARKO,S0MON PASTIRMA,SOMON FUME,"},
+      "sort" : [ 0.19707158, "T", "Alarko Somon Past?rma 110 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "51381",
+      "_score" : 0.19707158,
+      "_source":{"productId":51381,"productCode":201240,"productName":"Ate?o?lu Homojen Yo?urt 1500 g","documentId":41978,"contentShortText":"","unitName":"AD","priceValue":6.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"atesoglu-homojen-yogurt-1500-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Atesoglu,yogurt,yogurtlar,atesoglu,Atesoglu Homojen Yogurt 1500 g,Atesoglu Homojen Yogurt,"},
+      "sort" : [ 0.19707158, "T", "Ate?o?lu Homojen Yo?urt 1500 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "406229",
+      "_score" : 0.19707158,
+      "_source":{"productId":406229,"productCode":450179,"productName":"Ball? Hardall? Do?al Somon Pane","documentId":50245,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"balli-hardalli-dogal-somon-pane","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Ball? Hardall? Do?al Somon Pane, somon, somon pane"},
+      "sort" : [ 0.19707158, "T", "Ball? Hardall? Do?al Somon Pane" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "72585",
+      "_score" : 0.19707158,
+      "_source":{"productId":72585,"productCode":365169,"productName":"Barilla Pesti Pomodori Secchi Sos 200 g","documentId":49898,"contentShortText":"","unitName":"AD","priceValue":7.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"barilla-pesti-pomodori-secchi-sos-200-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1661,"categoryName":"Ketçap, Mayonez ve Soslar","isParent":false},{"categoryId":868,"categoryName":"G?da - Yemek Malzemeleri","isParent":true},{"categoryId":957,"categoryName":"G?da","isParent":true},{"categoryId":888,"categoryName":"Katalog Ürünleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":998,"categoryName":"Makarna, Pilav Soslar?","isParent":false},{"categoryId":965,"categoryName":"Ketçap, Mayonez ve Soslar","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"pesto,barilla, pesti, pomodori, secchi, sos,200,gr, domatesli sos,011014"},
+      "sort" : [ 0.19707158, "T", "Barilla Pesti Pomodori Secchi Sos 200 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44379",
+      "_score" : 0.19707158,
+      "_source":{"productId":44379,"productCode":15003,"productName":"Bonus ?skoç Somon Füme 100 g","documentId":1501,"contentShortText":"","unitName":"AD","priceValue":22.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"bonus-iskoc-somon-fume-100-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",somon fume salam,fume salam,somon salam,iskoc salami,iskoc fume salam,"},
+      "sort" : [ 0.19707158, "T", "Bonus ?skoç Somon Füme 100 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "123154",
+      "_score" : 0.19707158,
+      "_source":{"productId":123154,"productCode":418656,"productName":"Car-Fres Perk Adjus Scent Clean Laundry","documentId":42129,"contentShortText":"","unitName":"AD","priceValue":6.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"car-fres-perk-adjus-scent-clean-laundry","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1470,"categoryName":"Araç Kokular?","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Car-Fres Perk Adjus Scent Clean Laundry, araç kokusu, araba kokusu, otomobil kokusu, oto parfüm,kokular2215,kokular2215"},
+      "sort" : [ 0.19707158, "T", "Car-Fres Perk Adjus Scent Clean Laundry" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "174944",
+      "_score" : 0.19707158,
+      "_source":{"productId":174944,"productCode":266998,"productName":"DTC Map Somon Dilim 500-1000 g","documentId":46416,"contentShortText":"","unitName":"KG","priceValue":41.49,"priceExpensiveValue":0.0,"productRate":null,"unitId":2,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"dtc-map-somon-dilim-500-1000-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"DTC, Map, Somon, Dilim, balik, 500, 1000 g"},
+      "sort" : [ 0.19707158, "T", "DTC Map Somon Dilim 500-1000 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "162057",
+      "_score" : 0.19707158,
+      "_source":{"productId":162057,"productCode":266996,"productName":"DTC Map Somon Fleto 500-1000 g","documentId":46414,"contentShortText":"","unitName":"KG","priceValue":32.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":2,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"dtc-map-somon-fleto-500-1000-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":939,"categoryName":"Fileto - Dilim Bal?k","isParent":false},{"categoryId":921,"categoryName":"Bal?k ve Deniz Mahsülleri","isParent":true},{"categoryId":879,"categoryName":"Et & Bal?k & ?arküteri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"DTC, Map, Somon, balik, ciftlik, Fleto, 500 - 1000 g"},
+      "sort" : [ 0.19707158, "T", "DTC Map Somon Fleto 500-1000 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44048",
+      "_score" : 0.19707158,
+      "_source":{"productId":44048,"productCode":4211,"productName":"Danone Homojenize Do?al Light Yo?urt 4x100 g","documentId":4075,"contentShortText":"","unitName":"AD","priceValue":2.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"danone-homojenize-dogal-light-yogurt-4x100-g","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1099,"categoryName":"Light ve Biotik Yo?urt","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",danone,yogurt,light yogurt,diyet yogurt,homojenize yogurt,danone yogurt,,landingposition12"},
+      "sort" : [ 0.19707158, "T", "Danone Homojenize Do?al Light Yo?urt 4x100 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45125",
+      "_score" : 0.19707158,
+      "_source":{"productId":45125,"productCode":41802,"productName":"Danone Light Homojenize Yo?urt 550 g","documentId":41837,"contentShortText":"","unitName":"AD","priceValue":3.0,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"danone-light-homojenize-yogurt-550-g","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1099,"categoryName":"Light ve Biotik Yo?urt","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Danone Light Homojenize Yo?urt 550 GR, Danone Diyet Yogurt,Danone Rejim Yogurdu,Danon Light Homojenize Yogurt,Danon Diyet Yogurt,Danone,Danone Light Yogurt,Danone Homojenize Yogurt,Danone Yogurt,Yogurt,Light Yogurt,Homojenize Yogurt,tarif41,,landingposition12"},
+      "sort" : [ 0.19707158, "T", "Danone Light Homojenize Yo?urt 550 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "121148",
+      "_score" : 0.19707158,
+      "_source":{"productId":121148,"productCode":416478,"productName":"DenizEv Somon Pate","documentId":50080,"contentShortText":"","unitName":"AD","priceValue":19.65,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"denizev-somon-pate","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"DenizEv, Somon, balik, Pate"},
+      "sort" : [ 0.19707158, "T", "DenizEv Somon Pate" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "407110",
+      "_score" : 0.19707158,
+      "_source":{"productId":407110,"productCode":450184,"productName":"Dereotlu Somon Böre?i","documentId":52804,"contentShortText":"","unitName":"AD","priceValue":13.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"dereotlu-somon-boregi","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Dereotlu Somon Böre?i, somon, somon böre?i"},
+      "sort" : [ 0.19707158, "T", "Dereotlu Somon Böre?i" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "121072",
+      "_score" : 0.19707158,
+      "_source":{"productId":121072,"productCode":416485,"productName":"Dnz Marine Somon","documentId":50232,"contentShortText":"","unitName":"AD","priceValue":19.65,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"dnz-marine-somon","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Dnz, balik, Marine, Somon"},
+      "sort" : [ 0.19707158, "T", "Dnz Marine Somon" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "63681",
+      "_score" : 0.19707158,
+      "_source":{"productId":63681,"productCode":346906,"productName":"Dtc Somon Füme 100 g","documentId":46418,"contentShortText":"","unitName":"AD","priceValue":10.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"dtc-somon-fume-100-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Dtc Somon Fume 100 Gr,somon,somon bal?g?,bal?k,bal?klar,"},
+      "sort" : [ 0.19707158, "T", "Dtc Somon Füme 100 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "94256",
+      "_score" : 0.19707158,
+      "_source":{"productId":94256,"productCode":309222,"productName":"Ecoclassic 28 W ?nce Duy Promo","documentId":40267,"contentShortText":"","unitName":"AD","priceValue":4.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"ecoclassic-28-w-ince-duy-promo","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1603,"categoryName":"Tasarruflu Ampuller","isParent":false},{"categoryId":1315,"categoryName":"Ampuller","isParent":true},{"categoryId":1071,"categoryName":"H?rdavat, Elektrik, Ayd?nlatma","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"ecoclassic, eko, ampul, ampül, ampuller, duy,  ecoclass?c 28 w ince duy promo"},
+      "sort" : [ 0.19707158, "T", "Ecoclassic 28 W ?nce Duy Promo" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "121573",
+      "_score" : 0.19707158,
+      "_source":{"productId":121573,"productCode":417178,"productName":"Felix Somonlu 100 g Mama","documentId":40881,"contentShortText":"","unitName":"AD","priceValue":2.79,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"felix-somonlu-100-g-mama","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1721,"categoryName":"Ö?ünlük Mamalar","isParent":false},{"categoryId":1232,"categoryName":"Kedi","isParent":true},{"categoryId":1075,"categoryName":"Petshop ve Bahçe","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"*Felix Somonlu 100 Gr Mama,landingposition21,petshop010415"},
+      "sort" : [ 0.19707158, "T", "Felix Somonlu 100 g Mama" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "117650",
+      "_score" : 0.19707158,
+      "_source":{"productId":117650,"productCode":412542,"productName":"Friskies 1,5 kg Somon Sebze","documentId":40794,"contentShortText":"","unitName":"AD","priceValue":24.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"friskies-1-5-kg-somon-sebze","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1484,"categoryName":"Kuru Mamalar","isParent":false},{"categoryId":1232,"categoryName":"Kedi","isParent":true},{"categoryId":1075,"categoryName":"Petshop ve Bahçe","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Friskies 1,5 KG Somon Sebze,landingposition21, friskies, mama,petshop010415"},
+      "sort" : [ 0.19707158, "T", "Friskies 1,5 kg Somon Sebze" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "97854",
+      "_score" : 0.19707158,
+      "_source":{"productId":97854,"productCode":390042,"productName":"Friskies Kedi Somon 300 g","documentId":40666,"contentShortText":"","unitName":"AD","priceValue":6.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"friskies-kedi-somon-300-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1484,"categoryName":"Kuru Mamalar","isParent":false},{"categoryId":1232,"categoryName":"Kedi","isParent":true},{"categoryId":1075,"categoryName":"Petshop ve Bahçe","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Fr?sk?es Kedi, Somon kedi ,300 g kedi,landingposition21, mama, kedi mamas?,petshop010415"},
+      "sort" : [ 0.19707158, "T", "Friskies Kedi Somon 300 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "72790",
+      "_score" : 0.19707158,
+      "_source":{"productId":72790,"productCode":365662,"productName":"Glade Otomatik Sprey 3'lü Clean Lines","documentId":23599,"contentShortText":"","unitName":"AD","priceValue":23.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"glade-otomatik-sprey-3-lu-clean-lines","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1184,"categoryName":"Oda Kokusu","isParent":false},{"categoryId":1053,"categoryName":"Oda Kokular? ve Koku Gidericiler","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"glademail, Glade Oto Sprey 3 Al 2 Ode,glade,glade oto spreyi,glade oto kokusu,glade arac kokusu,oto kokusu,arac kokusu,araba kokusu,glade araba kokusu,araba kokular?,arac kokusu,otomobil kokusu,Glade Oto Sprey 3 al 2 ode Clean, Glade Oto Sprey 3 Al 2 Öde Clean Lines"},
+      "sort" : [ 0.19707158, "T", "Glade Otomatik Sprey 3'lü Clean Lines" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "72791",
+      "_score" : 0.19707158,
+      "_source":{"productId":72791,"productCode":365667,"productName":"Glade Otomatik Sprey 3'lü Lavanta","documentId":28981,"contentShortText":"","unitName":"AD","priceValue":23.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"glade-otomatik-sprey-3-lu-lavanta","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1184,"categoryName":"Oda Kokusu","isParent":false},{"categoryId":1053,"categoryName":"Oda Kokular? ve Koku Gidericiler","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"glademail, glade, Glade Oto Sprey 3 Al 2 Ode Lavanta,glade,glade oto spreyi,glade oto kokusu,glade arac kokusu,oto kokusu,arac kokusu,araba kokusu,glade araba kokusu,araba kokular?,arac kokusu,otomobil kokusu,"},
+      "sort" : [ 0.19707158, "T", "Glade Otomatik Sprey 3'lü Lavanta" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44415",
+      "_score" : 0.19707158,
+      "_source":{"productId":44415,"productCode":16167,"productName":"Gojo Akü Takviye Kablosu","documentId":46820,"contentShortText":"","unitName":"AD","priceValue":28.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gojo-aku-takviye-kablosu","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1472,"categoryName":"Donan?m","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",oto urunleri,oto malzemeleri,oto aksesuarlari,otomobil urun,otomobil malzemesi,otomobil aksesuar,otobil malzeme,aku sarj kablosu,sarj,sarj kablosu,oto kablo,oto kablosu,aku kablosu,aku,"},
+      "sort" : [ 0.19707158, "T", "Gojo Akü Takviye Kablosu" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44577",
+      "_score" : 0.19707158,
+      "_source":{"productId":44577,"productCode":20968,"productName":"Gojo Bagaj Ahtapot Lasti?i 6'l?","documentId":37106,"contentShortText":null,"unitName":"AD","priceValue":11.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gojo-bagaj-ahtapot-lastigi-6-li","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1472,"categoryName":"Donan?m","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",oto urunleri,oto malzemeleri,oto aksesuarlari,otomobil urun,otomobil malzemesi,otomobil aksesuar,otobil malzeme,lastik onarim spreyi,lastik,onarim spreyi,lastik tamiri,tamir,lastik tamir malzemeleri,"},
+      "sort" : [ 0.19707158, "T", "Gojo Bagaj Ahtapot Lasti?i 6'l?" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44578",
+      "_score" : 0.19707158,
+      "_source":{"productId":44578,"productCode":20969,"productName":"Gojo Ba?aj Ahtapot Lasti?i 2'li","documentId":41768,"contentShortText":"","unitName":"AD","priceValue":7.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gojo-bagaj-ahtapot-lastigi-2-li","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1472,"categoryName":"Donan?m","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",oto urunleri,oto malzemeleri,oto aksesuarlari,otomobil urun,otomobil malzemesi,otomobil aksesuar,otobil malzeme,lastik onarim spreyi,lastik,onarim spreyi,lastik tamiri,tamir,lastik tamir malzemeleri,"},
+      "sort" : [ 0.19707158, "T", "Gojo Ba?aj Ahtapot Lasti?i 2'li" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "46096",
+      "_score" : 0.19707158,
+      "_source":{"productId":46096,"productCode":75493,"productName":"Gojo Bijon Anahtar? 4'lü","documentId":41769,"contentShortText":"","unitName":"AD","priceValue":33.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gojo-bijon-anahtari-4-lu","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1472,"categoryName":"Donan?m","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",oto urunleri,oto malzemeleri,oto aksesuarlari,otomobil urun,otomobil malzemesi,otomobil aksesuar,otobil malzeme,bijon anahtari,bijon,anahtar,"},
+      "sort" : [ 0.19707158, "T", "Gojo Bijon Anahtar? 4'lü" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44576",
+      "_score" : 0.19707158,
+      "_source":{"productId":44576,"productCode":20967,"productName":"Gojo Hakiki Güderi","documentId":41773,"contentShortText":"","unitName":"AD","priceValue":15.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gojo-hakiki-guderi","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1468,"categoryName":"Bak?m ve Di?er Ürünler","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",araba malzemeleri,oto aksesuarlari,oto temizlik urunleri,oto temizlik,oto temizlik malzemeleri,otomobil,oto,temizlik bezi,oto temizlik bezi,oto bez,oto bezi,guderi,guderi bez,oto guderi,"},
+      "sort" : [ 0.19707158, "T", "Gojo Hakiki Güderi" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44142",
+      "_score" : 0.19707158,
+      "_source":{"productId":44142,"productCode":5555,"productName":"Gojo Oto Y?kama Süngeri","documentId":37470,"contentShortText":null,"unitName":"AD","priceValue":4.25,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gojo-oto-yikama-sungeri","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1468,"categoryName":"Bak?m ve Di?er Ürünler","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",araba malzemeleri,oto aksesuarlar?,oto temizlik urunleri,oto temizlik,oto temizlik malzemeleri,otomobil,suneger,y?kama sungeri,temizlik sungeri,oto temizlik sungeri,"},
+      "sort" : [ 0.19707158, "T", "Gojo Oto Y?kama Süngeri" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45777",
+      "_score" : 0.19707158,
+      "_source":{"productId":45777,"productCode":63705,"productName":"Gojo Oto ?p Çekme Halat?","documentId":46821,"contentShortText":"","unitName":"AD","priceValue":18.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gojo-oto-ip-cekme-halati","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1472,"categoryName":"Donan?m","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",oto urunleri,oto malzemeleri,oto aksesuarlari,otomobil urun,otomobil malzemesi,otomobil aksesuar,otobil malzeme,oto Ip cekme halati,oto,Ip,cekme halati,"},
+      "sort" : [ 0.19707158, "T", "Gojo Oto ?p Çekme Halat?" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45091",
+      "_score" : 0.19707158,
+      "_source":{"productId":45091,"productCode":40494,"productName":"Gojo Süngerli Cam Sil","documentId":37165,"contentShortText":null,"unitName":"AD","priceValue":7.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gojo-sungerli-cam-sil","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1468,"categoryName":"Bak?m ve Di?er Ürünler","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",araba malzemeleri,oto aksesuarlari,oto temizlik urunleri,oto temizlik,oto temizlik malzemeleri,otomobil,suneger,yikama sungeri,temizlik sungeri,oto temizlik sungeri,"},
+      "sort" : [ 0.19707158, "T", "Gojo Süngerli Cam Sil" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54375",
+      "_score" : 0.19707158,
+      "_source":{"productId":54375,"productCode":287466,"productName":"Gran Pavesi Pomodoro 250 g","documentId":3696,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"gran-pavesi-pomodoro-250-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1121,"categoryName":"Tuzlu Bisküviler","isParent":false},{"categoryId":1038,"categoryName":"Bisküviler","isParent":true},{"categoryId":883,"categoryName":"?ekerleme & Kuruyemi?","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Gran Pavesi Pomodoro 250 g,sos,soslar,gran pavesi,,landingposition12"},
+      "sort" : [ 0.19707158, "T", "Gran Pavesi Pomodoro 250 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "402353",
+      "_score" : 0.19707158,
+      "_source":{"productId":402353,"productCode":450185,"productName":"Ispanakl? Somon Böre?i","documentId":51638,"contentShortText":"","unitName":"AD","priceValue":13.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"ispanakli-somon-boregi","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Ispanakl?, Somon, boregi, balik"},
+      "sort" : [ 0.19707158, "T", "Ispanakl? Somon Böre?i" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "402260",
+      "_score" : 0.19707158,
+      "_source":{"productId":402260,"productCode":450186,"productName":"Krem Peynirli Somon Böre?i","documentId":50248,"contentShortText":"","unitName":"AD","priceValue":28.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"krem-peynirli-somon-boregi","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Krem Peynirli, Somon, boregi, balik"},
+      "sort" : [ 0.19707158, "T", "Krem Peynirli Somon Böre?i" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "122220",
+      "_score" : 0.19707158,
+      "_source":{"productId":122220,"productCode":417748,"productName":"Merdol Somon Füme 50 g","documentId":51615,"contentShortText":"","unitName":"AD","priceValue":6.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"merdol-somon-fume-50-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Merdol, Somon, fume, balik 50 g"},
+      "sort" : [ 0.19707158, "T", "Merdol Somon Füme 50 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "77171",
+      "_score" : 0.19707158,
+      "_source":{"productId":77171,"productCode":375365,"productName":"Miglior Gatto Kedi Mamas?  405 g","documentId":24915,"contentShortText":"","unitName":"AD","priceValue":4.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"miglior-gatto-kedi-mamasi-405-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1720,"categoryName":"Konserve Mamalar","isParent":false},{"categoryId":1232,"categoryName":"Kedi","isParent":true},{"categoryId":1075,"categoryName":"Petshop ve Bahçe","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Miglior Gatto Somonlu & Tonlu Pure Kedi Mamas?  405 Gr,landingposition21,petshop010415"},
+      "sort" : [ 0.19707158, "T", "Miglior Gatto Kedi Mamas?  405 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "77165",
+      "_score" : 0.19707158,
+      "_source":{"productId":77165,"productCode":375358,"productName":"Miglior Gatto Somon Bal?kl? Kedi Konservesi 405 g","documentId":40740,"contentShortText":"","unitName":"AD","priceValue":4.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"miglior-gatto-somon-balikli-kedi-konservesi-405-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1720,"categoryName":"Konserve Mamalar","isParent":false},{"categoryId":1232,"categoryName":"Kedi","isParent":true},{"categoryId":1075,"categoryName":"Petshop ve Bahçe","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Miglior Gatto Somon Bal?kl? Kedi Mamas? 405 Gr,,landingposition21,petshop010415"},
+      "sort" : [ 0.19707158, "T", "Miglior Gatto Somon Bal?kl? Kedi Konservesi 405 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "128140",
+      "_score" : 0.19707158,
+      "_source":{"productId":128140,"productCode":422566,"productName":"Mr Muscle Aqua Promo","documentId":31646,"contentShortText":"","unitName":"AD","priceValue":7.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"mr-muscle-aqua-promo","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1185,"categoryName":"Tuvalet Koku Gidericiler","isParent":false},{"categoryId":1053,"categoryName":"Oda Kokular? ve Koku Gidericiler","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Mr Muscle Aqua Promo"},
+      "sort" : [ 0.19707158, "T", "Mr Muscle Aqua Promo" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "402370",
+      "_score" : 0.19707158,
+      "_source":{"productId":402370,"productCode":450411,"productName":"Omomatik Active 4.5 kg","documentId":54274,"contentShortText":"","unitName":"AD","priceValue":24.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-active-4-5-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omomatik, Active, 4.5 kg, Omomatik Active 4.5 kg,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Active 4.5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "402309",
+      "_score" : 0.19707158,
+      "_source":{"productId":402309,"productCode":450168,"productName":"Omomatik Active Fresh 4.5 kg","documentId":54265,"contentShortText":"","unitName":"AD","priceValue":24.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-active-fresh-4-5-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omomatik Active Fresh 4.5 kg,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Active Fresh 4.5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "134471",
+      "_score" : 0.19707158,
+      "_source":{"productId":134471,"productCode":167745,"productName":"Omomatik Active Fresh 7.5 kg","documentId":39158,"contentShortText":"","unitName":"AD","priceValue":33.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-active-fresh-7-5-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omomatik Active Fresh 7.5kg,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Active Fresh 7.5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "402094",
+      "_score" : 0.19707158,
+      "_source":{"productId":402094,"productCode":450169,"productName":"Omomatik Color 4.5 kg","documentId":54266,"contentShortText":"","unitName":"AD","priceValue":24.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-color-4-5-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omomatik Color 4.5 kg,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Color 4.5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54484",
+      "_score" : 0.19707158,
+      "_source":{"productId":54484,"productCode":288678,"productName":"Omomatik Toz Çama??r Deterjan?  Active Fresh 10 Y?kama 1.5 kg","documentId":53830,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-active-fresh-10-yikama-1-5-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik Active Fresh 1,5 Kg,omo,omomatik,Omomatik Toz Çama??r Deterjan?  Active Fresh 10 Y?kama 1.5 kg,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan?  Active Fresh 10 Y?kama 1.5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54497",
+      "_score" : 0.19707158,
+      "_source":{"productId":54497,"productCode":288714,"productName":"Omomatik Toz Çama??r Deterjan? Active 10 Y?kama 1.5 kg                      ","documentId":53839,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-active-10-yikama-1-5-kg-","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik Active 1,5 Kg,omomatik,omo,omo deterjan,deterjan,camas?r deterjan?,deterjanlar,camas?r makinas? deterjan?,matik deterjan,,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Active 10 Y?kama 1.5 kg                      " ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "83102",
+      "_score" : 0.19707158,
+      "_source":{"productId":83102,"productCode":383006,"productName":"Omomatik Toz Çama??r Deterjan? Active 33 Y?kama 5 kg ","documentId":54024,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-active-33-yikama-5-kg-","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"omo,omo s?v? saf beyaz,saf beyaz,s?v? saf beyaz,1400ml,deterjan,deterjanlar,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Active 33 Y?kama 5 kg " ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54499",
+      "_score" : 0.19707158,
+      "_source":{"productId":54499,"productCode":288716,"productName":"Omomatik Toz Çama??r Deterjan? Active Fresh 20 Y?kama 3 kg","documentId":53841,"contentShortText":"","unitName":"AD","priceValue":16.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-active-fresh-20-yikama-3-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik Active Fresh 3 kg,omo,omomatik,deterjan,deterjan,matik deterjan,camas?r deterjan?,deterjanlar,omo act?ve,camas?r deterjanlar?, 211014, ,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Active Fresh 20 Y?kama 3 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "83111",
+      "_score" : 0.19707158,
+      "_source":{"productId":83111,"productCode":383020,"productName":"Omomatik Toz Çama??r Deterjan? Active Fresh 33 Y?kama 5 kg","documentId":54027,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-active-fresh-33-yikama-5-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omo Toz Act?ve Fresh 5 Kg,omo,omo deterjan,omo toz deterjan,omo camas?r deterjan?,camas?r deterjanlar?,deterjan,Omomatik Toz Çama??r Deterjan? Active Fresh 33 Y?kama 5 kg,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Active Fresh 33 Y?kama 5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54498",
+      "_score" : 0.19707158,
+      "_source":{"productId":54498,"productCode":288715,"productName":"Omomatik Toz Çama??r Deterjan? Color 10 Y?kama 1,5 kg","documentId":53840,"contentShortText":"","unitName":"AD","priceValue":9.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-color-10-yikama-1-5-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik Color 1,5 kg,omo,omomatik,omo color,omo color matik,omo deterjan,deterjan,matik deterjan,deterjanlar,camas?r deterjan?,camas?r makinas? deterjan?,renkli deterjan,renkli camas?r deterjan?,,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Color 10 Y?kama 1,5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54491",
+      "_score" : 0.19707158,
+      "_source":{"productId":54491,"productCode":288704,"productName":"Omomatik Toz Çama??r Deterjan? Color 20 Y?kama 3 kg","documentId":53836,"contentShortText":"","unitName":"AD","priceValue":16.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-color-20-yikama-3-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Konsantre Omo Color 3 Kg,omo,omomatik,omo color,omo renkli camas?r deterjan?,renkli camas?r deterjan?,deterjan,camas?r deterjan?,deterjanlar,camas?r deterjanlar?,matik deterjan,omo kolormatik, 211014, ,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Color 20 Y?kama 3 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "83106",
+      "_score" : 0.19707158,
+      "_source":{"productId":83106,"productCode":383012,"productName":"Omomatik Toz Çama??r Deterjan? Color 33 Y?kama 5 kg","documentId":54026,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-color-33-yikama-5-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omo Color 5 Kg,omo,omomatik,omo camas?r deterjan?,camas?r deterjan?,deterjan,deterjanlar,renkli camas?r deterjan?,renkli deterjan,camas?r makinas? deterjan?,color,colormatik,,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Color 33 Y?kama 5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54490",
+      "_score" : 0.19707158,
+      "_source":{"productId":54490,"productCode":288703,"productName":"Omomatik Toz Çama??r Deterjan? Yumo? Floral 20 Y?kama 3 kg","documentId":53835,"contentShortText":"","unitName":"AD","priceValue":16.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-yumos-floral-20-yikama-3-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omo Matik Yumo? Gül Ve Yasemin 3 kg,omo,omomatik,deterjan,deterjanlar,camas?r deterjan?,Omomatik Toz Çama??r Deterjan? Yumo? Floral 20 Y?kama 3 kg,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Yumo? Floral 20 Y?kama 3 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "83105",
+      "_score" : 0.19707158,
+      "_source":{"productId":83105,"productCode":383011,"productName":"Omomatik Toz Çama??r Deterjan? Yumo? Floral 33 Y?kama 5 kg","documentId":33711,"contentShortText":"","unitName":"AD","priceValue":26.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-yumos-floral-33-yikama-5-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omo Yumo? Floral Parfümlü,omo,deterjan,deterjanlar, Omomatik Toz Çama??r Deterjan? Yumo? Floral 33 Y?kama 5 kg,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Yumo? Floral 33 Y?kama 5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "54488",
+      "_score" : 0.19707158,
+      "_source":{"productId":54488,"productCode":288692,"productName":"Omomatik Toz Çama??r Deterjan? Yumo? Lavanta Manolya 10 Y?kama 1.5 kg","documentId":33686,"contentShortText":"","unitName":"AD","priceValue":11.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-toz-camasir-deterjani-yumos-lavanta-manolya-10-yikama-1-5-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Omomatik Yumos Lavanta Manolya 1,5 kg,omo,omomatik,deterjan,matik deterjan,deterjanlar,camas?r deterjan?,camas?r makinas? deterjan?,Omomatik Toz Çama??r Deterjan? Yumo? Lavanta Manolya 10 Y?kama 1.5 kg,yüzde25indirim,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Toz Çama??r Deterjan? Yumo? Lavanta Manolya 10 Y?kama 1.5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "402115",
+      "_score" : 0.19707158,
+      "_source":{"productId":402115,"productCode":450170,"productName":"Omomatik Yumo? Floral 4.5 kg","documentId":54267,"contentShortText":"","unitName":"AD","priceValue":24.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-yumos-floral-4-5-kg","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Omomatik Yumo? Floral 4.5 kg,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "T", "Omomatik Yumo? Floral 4.5 kg" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "131720",
+      "_score" : 0.19707158,
+      "_source":{"productId":131720,"productCode":334259,"productName":"Orgalife Bergomot Aromal?","documentId":50930,"contentShortText":"","unitName":"AD","priceValue":8.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"orgalife-bergomot-aromali","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1715,"categoryName":"Çay","isParent":false},{"categoryId":1045,"categoryName":"Çay ve Buzlu Çaylar","isParent":true},{"categoryId":884,"categoryName":"?çecek","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Orgalife Bergomot Aromal?, çay, orgalife, bergomot aromal?"},
+      "sort" : [ 0.19707158, "T", "Orgalife Bergomot Aromal?" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "48631",
+      "_score" : 0.19707158,
+      "_source":{"productId":48631,"productCode":142320,"productName":"P?nar Do?al Yo?urt 500 g","documentId":19666,"contentShortText":"","unitName":"AD","priceValue":1.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"pinar-dogal-yogurt-500-g","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",P?nar Homojenize Yogurt,Sutlu Urunler,Yogurt,P?nar,Homojenize Yogurt,P?nar Yogurt,yogurd,tarif5,P?nar Dogal Yogurt 500 Gr,"},
+      "sort" : [ 0.19707158, "T", "P?nar Do?al Yo?urt 500 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "43971",
+      "_score" : 0.19707158,
+      "_source":{"productId":43971,"productCode":3700,"productName":"P?nar Homojenize Yo?urt 1500 G","documentId":19108,"contentShortText":"","unitName":"AD","priceValue":5.4,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"pinar-homojenize-yogurt-1500-g","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",P?nar Homojenize Yogurt,yogurt,P?nar,Homojenize Yogurt,P?nar Yogurt,yogurt,kaymaks?z yogurt,mennan,"},
+      "sort" : [ 0.19707158, "T", "P?nar Homojenize Yo?urt 1500 G" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45313",
+      "_score" : 0.19707158,
+      "_source":{"productId":45313,"productCode":46318,"productName":"P?nar Yo?urt 2250 g ","documentId":21747,"contentShortText":"","unitName":"AD","priceValue":7.45,"priceExpensiveValue":8.75,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"pinar-yogurt-2250-g-","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true},{"categoryId":914,"categoryName":"Yo?urt, Krema ve Kaymak","isParent":false},{"categoryId":869,"categoryName":"Süt - Kahvalt?l?k","isParent":true},{"categoryId":957,"categoryName":"G?da","isParent":true},{"categoryId":888,"categoryName":"Katalog Ürünleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",P?nar Homojenize Yogurt,Yogurt,P?nar,Homojenize Yogurt,P?nar Yogurt,yogurtlar, 171214, "},
+      "sort" : [ 0.19707158, "T", "P?nar Yo?urt 2250 g " ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44364",
+      "_score" : 0.19707158,
+      "_source":{"productId":44364,"productCode":14557,"productName":"Sapl? Temizlik F?rças?","documentId":46809,"contentShortText":"","unitName":"AD","priceValue":11.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sapli-temizlik-fircasi","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1468,"categoryName":"Bak?m ve Di?er Ürünler","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",araba malzemeleri,oto aksesuarlari,oto temizlik urunleri,oto temizlik,oto temizlik malzemeleri,otomobil,oto temizleyiciler,temizleyiciler,"},
+      "sort" : [ 0.19707158, "T", "Sapl? Temizlik F?rças?" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "46609",
+      "_score" : 0.19707158,
+      "_source":{"productId":46609,"productCode":90091,"productName":"Sek Homojenize Yo?urt 1500 g","documentId":30423,"contentShortText":"","unitName":"AD","priceValue":6.45,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sek-homojenize-yogurt-1500-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",Sek Homojenize Yogurt,Yogurt,Sek,Sek Yogurt,Homojenize Yogurt,011014. mant?11"},
+      "sort" : [ 0.19707158, "T", "Sek Homojenize Yo?urt 1500 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "49176",
+      "_score" : 0.19707158,
+      "_source":{"productId":49176,"productCode":155548,"productName":"Sek Tam Ya?l? Homojenize Yo?urt 2250 g","documentId":41976,"contentShortText":"","unitName":"AD","priceValue":10.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sek-tam-yagli-homojenize-yogurt-2250-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",sek,sek yogurt,yogurt,tam yagl? homojenize yogurt,Sek Tam Yagl? Homojenize Yogurt,sek homojenize yogurt, 225015"},
+      "sort" : [ 0.19707158, "T", "Sek Tam Ya?l? Homojenize Yo?urt 2250 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "96159",
+      "_score" : 0.19707158,
+      "_source":{"productId":96159,"productCode":388343,"productName":"Somon Bütün Al??","documentId":50070,"contentShortText":"","unitName":"KG","priceValue":18.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":2,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"somon-butun-alis","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":938,"categoryName":"Çiftlik (kültür) Bal?klar?","isParent":false},{"categoryId":921,"categoryName":"Bal?k ve Deniz Mahsülleri","isParent":true},{"categoryId":879,"categoryName":"Et & Bal?k & ?arküteri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Somon, Bütün, Alis,"},
+      "sort" : [ 0.19707158, "T", "Somon Bütün Al??" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "86761",
+      "_score" : 0.19707158,
+      "_source":{"productId":86761,"productCode":31600,"productName":"Somon Fleto","documentId":50311,"contentShortText":"","unitName":"KG","priceValue":34.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":2,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"somon-fleto-31600","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":937,"categoryName":"Deniz - Tatl?su Av Bal?klar?","isParent":false},{"categoryId":921,"categoryName":"Bal?k ve Deniz Mahsülleri","isParent":true},{"categoryId":879,"categoryName":"Et & Bal?k & ?arküteri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"somon fleto, somon, somon bal???, bal?k, bal?k somon, baliksezonu"},
+      "sort" : [ 0.19707158, "T", "Somon Fleto" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "407111",
+      "_score" : 0.19707158,
+      "_source":{"productId":407111,"productCode":450187,"productName":"Somonlu Lazanya","documentId":50249,"contentShortText":"","unitName":"AD","priceValue":19.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"somonlu-lazanya","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Somonlu Lazanya, lazanya, somon"},
+      "sort" : [ 0.19707158, "T", "Somonlu Lazanya" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "94402",
+      "_score" : 0.19707158,
+      "_source":{"productId":94402,"productCode":318407,"productName":"Süper Promo Ay?","documentId":24599,"contentShortText":"","unitName":"AD","priceValue":14.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"super-promo-ayi","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1203,"categoryName":"Pelü?ler","isParent":false},{"categoryId":1074,"categoryName":"Oyuncak ve E?lence","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"proma ay?,ay?lar,oyuncaklar,süper proma ay?,y?lba?? süper promo ay?,oyuncak11"},
+      "sort" : [ 0.19707158, "T", "Süper Promo Ay?" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44398",
+      "_score" : 0.19707158,
+      "_source":{"productId":44398,"productCode":15330,"productName":"Süta? Cam Kase Homojenize Yo?urt 750 G","documentId":12655,"contentShortText":"","unitName":"AD","priceValue":5.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sutas-cam-kase-homojenize-yogurt-750-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"süta?,sutas,Sutas Cam Kase Homojenize Yogurt,Yogurt,Sutas,Sutas Yogurt,Homojenize Yogurt,Sutas Kase Yogurt,Kase Homojenize Yogurt,Sutas Homojenize Yogurt,Sutas Kase Homojenize Yogurt,Sutas Cam Kasede Yogurt,Cam Kasede Yogurt,"},
+      "sort" : [ 0.19707158, "T", "Süta? Cam Kase Homojenize Yo?urt 750 G" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "51623",
+      "_score" : 0.19707158,
+      "_source":{"productId":51623,"productCode":205206,"productName":"Süta? Homojen Yo?urt 650 g","documentId":12675,"contentShortText":"","unitName":"AD","priceValue":3.35,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sutas-homojen-yogurt-650-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"süta?,sutas,Sutas Homojen Yogurt 650 g ,sutas,yogurt,sutas yogurt, yo?urtçorbas?nas?lyap?l?r, yogurtcorbasinasilyapilir, "},
+      "sort" : [ 0.19707158, "T", "Süta? Homojen Yo?urt 650 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "44457",
+      "_score" : 0.19707158,
+      "_source":{"productId":44457,"productCode":17386,"productName":"Süta? Homojenize Yo?urt 1000 G","documentId":12656,"contentShortText":"","unitName":"AD","priceValue":4.45,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sutas-homojenize-yogurt-1000-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"süta?,sutas,Sutas Homojenize Yogurt,Sutlu Urunler,Yogurt,Sutas,Homojenize Yogurt,Sutas Yogurt,diyet2,,hediye21"},
+      "sort" : [ 0.19707158, "T", "Süta? Homojenize Yo?urt 1000 G" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "58932",
+      "_score" : 0.19707158,
+      "_source":{"productId":58932,"productCode":324492,"productName":"Süta? Homojenize Yo?urt 2250 g","documentId":12683,"contentShortText":"","unitName":"AD","priceValue":7.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sutas-homojenize-yogurt-2250-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"sutas,sutas218,yogurt,yogurt,sutas yogurt,sutas homojenize yogurt,yogurtlar,Sutas Homojenize Yogurt 2250 GR,homojenize yogurt,"},
+      "sort" : [ 0.19707158, "T", "Süta? Homojenize Yo?urt 2250 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "49272",
+      "_score" : 0.19707158,
+      "_source":{"productId":49272,"productCode":159247,"productName":"Süta? Kaymakl? Yo?urt 650 g","documentId":12668,"contentShortText":"","unitName":"AD","priceValue":3.35,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sutas-kaymakli-yogurt-650-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"süta?,sutas,Sutas Kase Homojenize Yogurt,Yogurt,Sutas,Sutas Yogurt,Homojenize Yogurt,Sutas Kase Yogurt,Kase Homojenize Yogurt,Sutas Homojenize Yogurt,Sutas Kase Homojenize Yogurt,tarif24,"},
+      "sort" : [ 0.19707158, "T", "Süta? Kaymakl? Yo?urt 650 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45591",
+      "_score" : 0.19707158,
+      "_source":{"productId":45591,"productCode":56598,"productName":"Süta? Kaymaks?z Yo?urt 1500 G","documentId":12658,"contentShortText":"","unitName":"AD","priceValue":5.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"sutas-kaymaksiz-yogurt-1500-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"süta?,sutas,Sutas Kaymaks?z Yogurt,Sutas Homojenize Yogurt,Sutas,Yogurt,Kaymaks?z Yogurt,Sutas Yogurt,Sutas Homojenize Kaymaks?z Yogurt,sutas149,"},
+      "sort" : [ 0.19707158, "T", "Süta? Kaymaks?z Yo?urt 1500 G" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "122268",
+      "_score" : 0.19707158,
+      "_source":{"productId":122268,"productCode":417799,"productName":"Torku Homojenize Yo?urt 2250 g","documentId":55555,"contentShortText":"","unitName":"AD","priceValue":7.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"torku-homojenize-yogurt-2250-g","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"torku, Torku Homojenize Yo?urt 2250 g, yogurt,"},
+      "sort" : [ 0.19707158, "T", "Torku Homojenize Yo?urt 2250 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "122263",
+      "_score" : 0.19707158,
+      "_source":{"productId":122263,"productCode":417798,"productName":"Torku Homojonize Yo?urt 1500 g","documentId":54457,"contentShortText":"","unitName":"AD","priceValue":5.75,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"torku-homojonize-yogurt-1500-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"torku, yo?urt, Torku Homojonize Yo?urt 1500 g,"},
+      "sort" : [ 0.19707158, "T", "Torku Homojonize Yo?urt 1500 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "110561",
+      "_score" : 0.19707158,
+      "_source":{"productId":110561,"productCode":406280,"productName":"U?urlu Somon Füme 100 g","documentId":50074,"contentShortText":"","unitName":"AD","priceValue":13.45,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"ugurlu-somon-fume-100-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":938,"categoryName":"Çiftlik (kültür) Bal?klar?","isParent":false},{"categoryId":921,"categoryName":"Bal?k ve Deniz Mahsülleri","isParent":true},{"categoryId":879,"categoryName":"Et & Bal?k & ?arküteri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"bal?k, balik, u?urlu somon füme, u?urlu, ugurlu, füme, fume, somon, U?urlu Somon Füme 100 GR"},
+      "sort" : [ 0.19707158, "T", "U?urlu Somon Füme 100 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "110483",
+      "_score" : 0.19707158,
+      "_source":{"productId":110483,"productCode":406287,"productName":"U?urlu Somon Füme 200 g","documentId":51597,"contentShortText":"","unitName":"AD","priceValue":23.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"ugurlu-somon-fume-200-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"U?urlu Somon Füme 200 GR, u?urlu, somon füme, somon fume, bal?k, balik, U?urlu Somon Füme 200 GR"},
+      "sort" : [ 0.19707158, "T", "U?urlu Somon Füme 200 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "99953",
+      "_score" : 0.19707158,
+      "_source":{"productId":99953,"productCode":392383,"productName":"Whiskas Somonlu 100 g","documentId":40725,"contentShortText":"","unitName":"AD","priceValue":2.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"whiskas-somonlu-100-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1721,"categoryName":"Ö?ünlük Mamalar","isParent":false},{"categoryId":1232,"categoryName":"Kedi","isParent":true},{"categoryId":1075,"categoryName":"Petshop ve Bahçe","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"Whiskas Somonlu 100 Gr,köpek,landingposition21,petshop010415"},
+      "sort" : [ 0.19707158, "T", "Whiskas Somonlu 100 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "49845",
+      "_score" : 0.19707158,
+      "_source":{"productId":49845,"productCode":172907,"productName":"Yörsan Kaymaks?z Yo?urt 1000 g","documentId":46766,"contentShortText":"","unitName":"AD","priceValue":5.35,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"yorsan-kaymaksiz-yogurt-1000-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"yörsan, yorsan,yogurt,Yorsan yogurt,yorsan yogurt,yar?m yagl? yogurt,Yorsan Yar?m Yagl? Homojen Yogurt,yogurtlar,yorsan yogurtlar,yorsan,Yorsan,yar?m yagl? homojen yogurt,light yogurt,homojen yogurt,"},
+      "sort" : [ 0.19707158, "T", "Yörsan Kaymaks?z Yo?urt 1000 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "48533",
+      "_score" : 0.19707158,
+      "_source":{"productId":48533,"productCode":138916,"productName":"Yörsan Kaymaks?z Yo?urt 1500 g","documentId":46758,"contentShortText":"","unitName":"AD","priceValue":5.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"yorsan-kaymaksiz-yogurt-1500-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"yörsan, yorsan,Yorsan Homojenize Yogurt 1500Gr.,yogurt,homojenize,homojenize yogurt,yorsan, yesilmercimeklieristecorbasi, ye?ilmercimeklieri?teçorbas?, mahlutaçorbas?nas?lyap?l?r, peynirlipufpo?açanas?lyap?l?r, elmal?kurabiyenas?lyap?l?r"},
+      "sort" : [ 0.19707158, "T", "Yörsan Kaymaks?z Yo?urt 1500 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "58759",
+      "_score" : 0.19707158,
+      "_source":{"productId":58759,"productCode":323128,"productName":"Ülker ?çim Homojenize Yo?urt 2250 g","documentId":50038,"contentShortText":"","unitName":"AD","priceValue":7.25,"priceExpensiveValue":7.5,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"ulker-icim-homojenize-yogurt-2250-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":"içimmay?skatalog, icim, ülker, ulker, ülker içim, ulker icim, homojenize, yo?urt, yogurt, yo?urtlar, yogurtlar Ülker ?çim Homojenize Yo?urt 2250 gr"},
+      "sort" : [ 0.19707158, "T", "Ülker ?çim Homojenize Yo?urt 2250 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "45168",
+      "_score" : 0.19707158,
+      "_source":{"productId":45168,"productCode":43973,"productName":"?çim Do?al Yo?urt 1500 g","documentId":49987,"contentShortText":"","unitName":"AD","priceValue":5.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"icim-dogal-yogurt-1500-g","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1097,"categoryName":"Kaymakl? ve Kaymaks?z Yo?urtlar","isParent":false},{"categoryId":1034,"categoryName":"Yo?urt & Krema & Kaymak","isParent":true},{"categoryId":881,"categoryName":"Süt & Kahvalt?l?k","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":true,"contentKeyword":",ulker homojenize Yogurt,Yogurt,ulker,ulker Yogurt,homojenize Yogurt,icim yogurt,ulker icim yogurt,ulker icim,icim,Ulker Icim Homojenize Yogurt 1500 Gr,"},
+      "sort" : [ 0.19707158, "T", "?çim Do?al Yo?urt 1500 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "109711",
+      "_score" : 0.19707158,
+      "_source":{"productId":109711,"productCode":390063,"productName":"*Fr?sk?es Kedi Somon 400 g","documentId":null,"contentShortText":"","unitName":"AD","priceValue":6.99,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"friskies-kedi-somon-400-g","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1484,"categoryName":"Kuru Mamalar","isParent":false},{"categoryId":1232,"categoryName":"Kedi","isParent":true},{"categoryId":1075,"categoryName":"Petshop ve Bahçe","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Fr?sk?es Kedi Somon 400 g, landingposition21, fr?sk?es, kedi, kedi mamas?,mama"},
+      "sort" : [ 0.19707158, "F", "*Fr?sk?es Kedi Somon 400 g" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "99630",
+      "_score" : 0.19707158,
+      "_source":{"productId":99630,"productCode":393229,"productName":"*Merkant Promo 1 Palet","documentId":null,"contentShortText":"","unitName":"AD","priceValue":0.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"merkant-promo-1-palet","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1619,"categoryName":"Mutfak Aksesuarlar?","isParent":false},{"categoryId":1216,"categoryName":"Züccaciye","isParent":true},{"categoryId":1070,"categoryName":"Ev Düzeni ve Züccaciye","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Merkant,*Merkant Promo 1 Palet,landingposition23"},
+      "sort" : [ 0.19707158, "F", "*Merkant Promo 1 Palet" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "100506",
+      "_score" : 0.19707158,
+      "_source":{"productId":100506,"productCode":393228,"productName":"*Merkant Promo 2 Palet","documentId":null,"contentShortText":"","unitName":"AD","priceValue":0.95,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"merkant-promo-2-palet","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1619,"categoryName":"Mutfak Aksesuarlar?","isParent":false},{"categoryId":1216,"categoryName":"Züccaciye","isParent":true},{"categoryId":1070,"categoryName":"Ev Düzeni ve Züccaciye","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Merkant,*Merkant Promo 2 Palet,landingposition23"},
+      "sort" : [ 0.19707158, "F", "*Merkant Promo 2 Palet" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "117517",
+      "_score" : 0.19707158,
+      "_source":{"productId":117517,"productCode":412633,"productName":"Denizev S?cak Somon Füme","documentId":null,"contentShortText":"","unitName":"AD","priceValue":14.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"denizev-sicak-somon-fume","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Denizev, S?cak, Somon, fume,"},
+      "sort" : [ 0.19707158, "F", "Denizev S?cak Somon Füme" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "122450",
+      "_score" : 0.19707158,
+      "_source":{"productId":122450,"productCode":417879,"productName":"Dz Somon Fümeli Sandviç","documentId":null,"contentShortText":"","unitName":"AD","priceValue":5.9,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"dz-somon-fumeli-sandvic","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1014,"categoryName":"Bal?klar ve Deniz Mahsülleri","isParent":false},{"categoryId":969,"categoryName":"Dondurulmu? Ürünler","isParent":true},{"categoryId":880,"categoryName":"G?da & Yemek Malzemeleri","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Dz, Somon, fumeli, fume, Sandvic, balik"},
+      "sort" : [ 0.19707158, "F", "Dz Somon Fümeli Sandviç" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "48167",
+      "_score" : 0.19707158,
+      "_source":{"productId":48167,"productCode":129097,"productName":"Kayd?rmaz Araç ?çi Pedi","documentId":null,"contentShortText":null,"unitName":"AD","priceValue":3.15,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"kaydirmaz-arac-ici-pedi","contentText":null,"statusId":2,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1472,"categoryName":"Donan?m","isParent":false},{"categoryId":1242,"categoryName":"Oto Ürünleri","isParent":true},{"categoryId":1073,"categoryName":"Oto ve Seyahat","isParent":true},{"categoryId":887,"categoryName":"Elektronik & G?da D???","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":",oto urunleri,oto malzemeleri,oto aksesuarlari,otomobil urun,otomobil malzemesi,otomobil aksesuar,otobil malzeme,kaydirmaz arac Ici pedi,kaydirmaz,arac Ici pedi,kaydirmaz arac Ici pet,"},
+      "sort" : [ 0.19707158, "F", "Kayd?rmaz Araç ?çi Pedi" ]
+    }, {
+      "_index" : "38",
+      "_type" : "product",
+      "_id" : "124268",
+      "_score" : 0.19707158,
+      "_source":{"productId":124268,"productCode":202242,"productName":"Omomatik Domestos Etkili 2 kg","documentId":null,"contentShortText":"","unitName":"AD","priceValue":10.5,"priceExpensiveValue":0.0,"productRate":null,"unitId":1,"quantityToAdd":1.0,"promotionId":null,"promotionName":null,"promotionDescription":null,"promotionStartDate":null,"promotionEndDate":null,"promotionLink":null,"friendlyName":"omomatik-domestos-etkili-2-kg","contentText":null,"statusId":4,"promoOnSingleProduct":false,"productType":"NormalProduct","productCategoryDtoList":[{"categoryId":1168,"categoryName":"Matik Deterjanlar","isParent":false},{"categoryId":1048,"categoryName":"Çama??r Y?kama Ürünleri","isParent":true},{"categoryId":885,"categoryName":"Temizlik","isParent":true},{"categoryId":1,"categoryName":"GIDA","isParent":true}],"productDescription":null,"isDocExists":false,"contentKeyword":"Omomatik, Domestos Etkili, 2 kg,deterjankampanya0915,deterjankampanya0915"},
+      "sort" : [ 0.19707158, "F", "Omomatik Domestos Etkili 2 kg" ]
+    } ]
+  }
+}

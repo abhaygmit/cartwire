@@ -1,0 +1,32 @@
+.ac_results ul {
+z-index: 1;
+top: 200px;
+left: 584px;
+display: block;
+overflow: auto;
+min-height: 50px;
+max-height: 300px;
+/* width: 345px; */
+margin:0; padding:0;
+}
+.ac_results ul{
+width: 304px;
+border: 1px solid #aaaaaa;
+background: #ffffff 50% 50% repeat-x;
+padding: 2px;
+}
+.ac_results ul li{}
+.ac_results ul li a{
+	color: #222222;
+	text-decoration: none;
+	display: block;
+	padding: .2em .4em;
+	line-height: 1.5;
+	
+}
+.ac_results ul li a:hover{
+border: 1px solid #999999;
+background: #dadada;
+border-radius:5px;
+padding:.1em .3em;
+}

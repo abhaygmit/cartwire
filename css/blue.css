@@ -1,0 +1,891 @@
+/* CSS Document */
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+/*These rules reset the default borders, paddings, margins, etc that browsers add to the document*/
+/*html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	height:100%; min-height: 100%;
+}*/
+/*html, body {
+height:100%; min-height: 100%;
+}
+*/
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/*///////////////////Default custom styles///////////////////*/
+
+h1, h2, h3, h4 { /*Default headings font family and color*/
+	color: #2A2A2A;
+	font-weight: normal;
+	padding-bottom: 15px; /*Defines the space between the headeing and the next element, usually a <p> element*/
+}
+
+h1 {
+	font-size: 36px;
+	line-height: 100px;
+}
+
+h2 {
+	font-size: 24px;
+	padding-bottom: 25px;
+}
+
+h3 {
+	font-size: 21px;
+}
+
+h4 {
+	font-size: 18px;
+}
+
+a {
+	text-decoration: none;
+	color: #31AEF2;
+	outline: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #027BC4;
+}
+
+ul.green {
+	margin: 20px 0px 20px 0px;
+}
+
+ul.green li { /*This style will be applied to all list items of unordered lists that have the class "green" and it adds a green check icon on each item*/
+	list-style: none;
+	background:url(../images/check.png) no-repeat left center; /*Uses background image instead of "list-image" because it can be centered*/
+	line-height: 28px;
+	padding-left: 25px;
+	margin-bottom: 5px;
+}
+
+ul.orange li { /*This style will be applied to all list items of unordered lists that have the class "orange" and it adds an orange arrow bullet on each item*/
+	list-style: none; /*Uses background image instead of "list-image" because it can be centered*/
+	padding-left: 25px;
+	margin-bottom: 8px;
+	background: url(../images/arrow.png) no-repeat left center;
+}
+
+ul.orange li a {
+	color: #696969;
+}
+
+ul.orange li a:hover {/*This rule defines the hover effect on all list items (li) inside the unordered lists (ul) with the class "orange"*/
+	color: #31AEF2;
+	padding-left: 5px;
+}
+
+span.blue {
+	color: #31AEF2;
+}
+
+span.clientName {
+	text-transform: uppercase;
+	color: #3E3E3E;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+span.gray {
+	color: #666666;
+}
+
+/*///////////////////End default custom styles///////////////////*/
+
+#top-content, #header-content, #orange-content, .main-container, #gray-content, #footer-content, #bottom-box, #bottom-bar-content  {
+	width: 960px;
+	margin: 0 auto; /*This rule grabs all the containers in the page and centers them by setting the left and right margins to auto while keeping the right and left margins to 0*/
+	padding: 0px 10px 0px 10px; /* adds 10 pixels of padding on the left and right edges of the elements listed above. The top and bottom paddings are set to 0 because I will add that on ech individual element if needed*/
+}
+
+#top-container {
+   clear: both;
+   }
+
+#top-content {
+	position: relative;
+	width: auto;
+	float:right; padding: 0 !important;
+	/*padding-top: 10px; The padding + the height value make 120 pixels which is the heigh of the top navigation pannel*/
+ }
+
+#top-content h1 {
+	width: 344px;
+	background: url(../images/logo.png) no-repeat;
+	text-indent: -9999px;
+	float: left;
+	/*margin-top:20px*/
+}
+
+#top-content h1 a {
+	height: 58px;
+	width: 344px;
+}
+
+#top-content ul.menu {
+	position: relative;
+	top: 0px;
+	padding:5px 0 0;
+	margin: 0;
+
+}
+
+#top-content ul.menu li {
+	position: relative;
+	float: left;
+	 
+	/*font-family:"Engel Light ltd", Georgia, "Trebuchet MS", sans-serif;*/
+	font-size: 14px;
+	color: #bfbfbf;
+}
+
+#top-content ul.menu ul {/*Rules applied to the dropdown list*/
+	position: absolute; /*Aligns the dropdown list items vertically relative to the parent LI*/
+	visibility: hidden; 
+	display: block;
+	top:30px;
+	left:0px;
+	border-radius:15px;
+	padding:5px;
+	background:#fff;   border:2px solid #E0E0E0;    border-bottom:2px solid #E0E0E0;  
+	z-index: 1000;/*this z-index makes the list items of the dropdown menu appear above all the other elements on the page*/
+}
+
+
+#top-content ul.menu > li:last-child ul {left:-89px;}
+.lastul{left:-117px !important;}
+
+#top-content ul.menu ul li {
+ 	font-size: 14px; 
+	background:#fff;
+	
+}
+
+#top-content ul.menu ul li a {
+	 padding:5px;
+	 width: 150px;
+	display: block;border-radius:6px !important;
+	background:#fff !important;
+	border-radius:10px;
+	padding:5px !important;	margin-right:0px !important;
+}
+
+#top-content ul.menu ul li a:hover {
+	background:#ececec !important; border: 2px solid #ececec;
+}
+
+#top-content ul.menu li:hover ul {
+	visibility: visible;
+}
+
+#top-content ul.menu li a {
+	text-decoration: none;
+ 	display: inline-block;
+	padding: 2px 15px;
+	border: 2px solid #FFFFFF;
+	color: #646464;  
+	margin-right:2px;
+	margin-bottom:5px;
+}
+
+
+#top-content ul.menu li:hover > a, #top-content ul.menu li.selected > a{
+	text-decoration: none;
+	color: #31AEF2;border: 2px solid #E0E0E0;
+    border-radius: 20px;
+    color: #DE6666;
+}
+
+#header-container {
+	background: url(../images/header-noise-bg.jpg);
+}
+
+#header-content {
+	position: relative;
+	min-height: 300px;
+	padding-top: 20px;
+	overflow: hidden;	
+	color: #ffffff;
+}
+
+#header-content div.featured {
+	width: 470px;
+	float: left;
+	margin-right: 20px;
+}
+
+#header-content div.featured h1 {
+	font-family: Rockwell, Arial, Tahoma, sans-serif;
+	font-size: 24px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+#header-content div.featured a.more-btn {	
+	float: left;
+	text-indent: -9999px;
+	height: 38px;
+	width: 120px;
+	background:url(../images/more-white-btn.png) no-repeat;
+	display: block;
+	margin: 30px 0px 20px 0px;
+}
+
+#header-content div.featured a.download-btn {
+	text-indent: -9999px;
+	height: 38px;
+	width: 120px;
+	background:url(../images/demo-btn.png) no-repeat;
+	display: block;
+	margin: 30px 0px 20px 130px;
+}
+
+#header-content div.featured a:hover.more-btn {
+	text-indent: -9999px;
+	height: 38px;
+	width: 120px;
+	background:url(../images/more-white-btn.png) no-repeat;
+	background-position: 0 -38px;
+	display: block;
+}
+
+#header-content div.featured a:hover.download-btn {
+	text-indent: -9999px;
+	height: 38px;
+	width: 120px;
+	background:url(../images/demo-btn.png) no-repeat;
+	background-position: 0 -38px; /*This rule creates the hover effect on the button by moving the image 38pixels up and therefore showing the bottom part of the demo-btn.png image*/
+	display: block;
+}
+
+#header-content #slideshow {
+	position: relative;
+	width: 340px;
+	height: 280px;
+	margin: 10px 60px 0px 0px;
+	background: url(../images/screen.png) no-repeat center;
+	float: right;
+	display: block;
+}
+
+#header-content #slideshow img {
+		position: absolute;	
+		top: 16px;
+		left: 16px;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
+
+#orange-container {
+	clear: both;
+	height: 108px;
+	background-image: url(../images/spikes-bg.png);
+	background-repeat: repeat-x;
+}
+
+#orange-content {
+	padding-top: 40px;
+}
+
+#orange-content h1 {
+	color: #f1eae3;
+}
+
+.main-container {
+	clear: both;
+	overflow: hidden;
+	padding: 20px 0 20px 0;
+	background-color:#ffffff; min-height:422px;
+}
+
+div.portfolioPost {
+	padding: 20px 0 20px 0;
+	overflow: hidden;
+}
+
+div.portfolioPost img.portfolio {
+	float: left;
+	margin-right: 30px;
+	margin-bottom: 10px;
+	border: 10px solid #E6E6E6;
+}
+
+.home-3col {
+	position: relative;
+	width: 290px;
+	margin: 25px 0px 25px 22px;
+	float: left;
+}
+
+.home-4col {
+	width: 220px;		
+	margin: 25px 0px 25px 20px;
+	float: left;
+}
+
+div.col2 {
+	width: 460px;
+	float: left;
+	margin-top: 30px;
+	margin-right: 20px;
+}
+
+div.col2 .affBox {
+	background-color: #F2F2F2;
+	overflow: hidden;
+	margin-bottom: 40px;
+	width: 390px;
+	border: solid 1px #CCCCCC;
+	padding: 20px 20px 0px 20px;
+}
+
+div.col2 img.truck {
+	float: left;
+	margin-right: 20px;
+	margin-top: -40px;
+}
+
+div.col2 h2 {
+	clear: both;
+}
+
+div.col2 .affBox ul {
+	float: right;
+}
+
+.main-container img.title-icon {
+	float: left;
+	margin: -10px 10px 10px 0px;
+}
+
+#contactTXT {
+	width: 630px;
+	float: left;
+	margin-right: 30px;
+}
+
+#contactFAQ {
+	width: 300px;
+	float: right;
+}
+
+.home-3col img.grid {
+	padding: 5px; /*Creates a 5 pixels frame around the images */
+	margin-top: 8px !important; /*The "important" rule overrides the -10px or top margin set on the rule above and aligns the 3 thumbnails vertically with the text of the other 2 colums on the right*/
+	background-color: #F3F3F3;
+	border: solid 1px #e7e7e7;
+}
+
+.home-3col a:hover img.grid {
+	border: solid 1px #D3D3D3;
+}
+
+img.faq {
+	position: relative;
+	right: 12px;
+	vertical-align: middle;
+}
+
+#contactContainer {
+	clear: both;
+	width: 600px;
+	float: left;
+}
+
+#contactContainer input#submitBtn {
+	margin-top: 10px;
+}
+
+#contactContainer input.text:hover, textarea:hover  {
+	background-color: #F3F3F3; /*Changes the background color of the input fields when you hover the mouse over them*/
+	border: 1px solid #E2E2E2; /*Creates a gray 1px border around the input fields. If you don't want the border, replace with 0 instead of deleting the rule, otherwise some browsers add an ugly 3d border effect*/
+}
+
+#contactContainer input.text {
+	height: 30px;
+	line-height: 30px; /*Centers the text vertically on the input field by making the line height the same as the height of the input area.*/
+}
+
+#contactContainer input.text, textarea { /*Styles for the text that you type on the contact form*/
+	font-size: 17px;
+	color: #484848;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	border: 1px solid #E2E2E2;
+	width: 90%;
+	outline: none; /*Prevents the default outline on forms on Safari and yellow outline around input areas on Opera and other browsers*/
+}
+
+#map-box {
+	float: right;
+	margin-top: 25px;
+	padding: 10px;
+	overflow: hidden;
+	background: #F5F5F5;
+	border: 1px solid #DDDDDD;
+}
+
+.main-container a.readmore {
+	width: 93px;
+	height: 28px;
+	float: right;
+	background: url(../images/green-more-btn.png) no-repeat;
+	text-indent: -9999px;
+	margin-top: 20px;
+	display: block;	
+}
+
+.main-container a:hover.readmore {
+	width: 93px;
+	height: 28px;
+	background: url(../images/green-more-btn.png) no-repeat;
+	background-position: 0 -28px;
+}
+
+#clientsContainer {
+	width: 570px;
+	margin-top: 30px;
+	float: left;
+	overflow: hidden;
+}
+
+#clientsContainer .clientBox {
+	float: left;
+	width: 50%;
+}
+
+#clientsContainer .clientBox img {
+	float: left;
+	margin: 0 20px 30px 0;
+}
+
+#clientsColumn {
+	width: 370px;
+	margin: 30px 0 0 20px;
+	float: right;
+}
+
+#gray-container {
+	clear: both;
+	background: url(../images/gray-bg.jpg) repeat;
+	height: 200px;
+	border-bottom: solid 1px #c6c6c6;
+	border-top: solid 1px #c6c6c6;
+}
+
+#gray-content {
+	background: url(../images/gray-bg.jpg) repeat;
+}
+
+#gray-content h1 {
+	text-align: center;
+	padding-top: 20px;
+	color: #505050;
+	text-shadow: #F8F8F8 1px 1px;
+}
+
+#gray-content div.gray-col {
+	width: 310px;
+	text-align: center;
+	margin: 10px 0px 15px 7px;
+	float: left;
+	display: inline;
+}
+
+#gray-content div.gray-col p {
+	color: #505050;
+	font-family: Rockwell, Arial, Tahoma, sans-serif;
+	font-size: 24px;
+}
+
+#gray-content div.gray-col img {
+	margin-bottom: 10px;
+}
+
+div.dot-divider {
+	clear: both
+	overflow: hidden;
+	width: 960px;
+	margin: 0 auto;
+	background: url(../images/dots-divider.gif);
+	height: 1px;
+	margin-bottom: 0px;
+}
+
+#bottom-box {
+	clear: both;
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#bottom-box div.bottomboxCol {
+	width: 240px;
+	float: left;
+	padding: 0 0 20px;
+}
+
+#bottom-box p.testimonial {
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div.bottom-heading {
+	width: 350px;
+	float: left;
+	margin-right: 10px;
+}
+
+div.bottom-content {
+	width: 590px;
+	padding-left: 10px;
+	float: right;
+	text-align: center;
+}
+
+div.bottom-content a img { /*This style is applied to all images that have an active link*/
+	padding-left: 17px; /*sets de horizontal space between the images on the bottom-box container*/
+	filter:alpha(opacity=70); /*sets the */
+        -moz-opacity:0.7;
+        -khtml-opacity: 0.7;
+        opacity: 0.7;
+		padding-bottom: 10px;
+		background: #FFFFFF;
+}
+
+div.bottom-content a:hover img {
+	padding-left: 17px;
+	filter:alpha(opacity=100);
+        -moz-opacity:1;
+        -khtml-opacity: 1;
+        opacity: 1;
+}
+
+#footer-container {
+	background-color: #242424;
+	/*border-top: solid 4px #127CFE;*/
+	color: #a49384;
+	bottom:0;
+	left:0;
+	/*position:absolute;*/
+	width:100%;
+}
+
+#footer-content {
+	
+	width:100%;
+	padding:0px;
+}
+
+#footer-container ul li a {
+	color: #a49384;
+	display: block;
+}
+
+#footer-container ul li a:hover {
+	color: #a49384;	
+	padding-left: 5px;
+}
+
+/*################Footer social links styles. These rules are only applied to unordered lists inside the footer###############*/
+#footer-container ul.ul-footer li {
+	margin-bottom: 10px;
+}
+
+#footer-container ul li.tweet {
+	list-style: none;
+	background: url(../images/twitter24.png) no-repeat left center;
+	padding-left: 35px; /*the background icon is 24x24 pixels. If you use bigger social icons increase the padding.*/
+}
+
+#footer-container ul li.face {
+	list-style: none;
+	background: url(../images/facebook24.png) no-repeat left center;
+	padding-left: 35px; /*the background icon is 24x24 pixels. If you use bigger social icons increase the padding.*/
+}
+
+#footer-container ul li.link{
+	list-style: none;
+	background: url(../images/linkedin24.png) no-repeat left center;
+	padding-left: 35px; /*the background icon is 24x24 pixels. If you use bigger social icons increase the padding.*/
+}
+
+#footer-container ul li.news {
+	list-style: none;
+	background: url(../images/newsvine24.png) no-repeat left center;
+	padding-left: 35px; /*the background icon is 24x24 pixels. If you use bigger social icons increase the padding.*/
+}
+
+#footer-container ul li.found {
+	list-style: none;
+	background: url(../images/found24.png) no-repeat left center;
+	padding-left: 35px; /*the background icon is 24x24 pixels. If you use bigger social icons increase the padding.*/
+}
+/*################End footer social links styles###############*/
+
+#footer-container h3 {/*This rule determines the color of the headings that appear on the footer. The font family and size are set on the top of the document on the Default custom styles*/
+	color: #ffffff;
+}
+
+#footer-container h3.logo {/*this rules replace the heading of the 4th row with a logo. If you use a custom logo make sure you also change the width and height to fit your logo size. Use a similar size logo or you might have to change other css rules to realign the content properly*/
+	width: 202px;
+	height: 39px;
+	margin-top: -15px;
+	text-indent: -9999px;
+	background: url(../images/footer-logo.png) no-repeat center;
+}
+
+div.footer-col {
+	padding-top: 20px;
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 30px;
+	width: 220px;
+}
+
+
+div.footerForm {
+	margin-top: 20px;
+}
+
+div.footerForm label {
+	padding-right: 10px;
+	
+}
+
+div.footerForm input {
+	float: right;
+	color: #A49384;
+}
+
+div.footerForm input.text {
+	border: solid 1px #3E3E3E;
+	background-color: #333333;
+}
+
+div.footerForm input.subscribeBtn {
+	background: url(../images/subscribe-btn.png) no-repeat;
+	border: 0px;
+	height: 19px;
+	width: 59px;
+	text-indent: -9999px;
+}
+
+div.footerForm p {
+	padding-bottom: 6px;
+}
+
+#bottom-bar-container {
+	height: 57px;
+	background-color: #090909;
+	/*background: url(../images/bottom-bar-bg.png) repeat-x;*/
+	width:100%;
+}
+
+#bottom-bar-content {
+	padding-top: 14px;
+}
+
+#bottom-bar-content div.copyright {
+	float: left;
+}
+
+#bottom-bar-content div.bar-info {
+	float: right;
+}
+
+#bottom-bar-content div.bar-info a {
+	color: #696969;
+}
+
+#bottom-bar-content div.bar-info a:hover {
+	color: #D7D7D7;
+}
+
+.stp5_frmWrap {
+    float: left;
+    padding:10px !important;
+	width:90%
+}
+
+.stp5_colL .fldLable { margin-top:-3px !important;}
+.steps_btnWrapper {
+    float: left !important;
+    padding: 0 0 22px !important;
+    text-align: center;
+    width: 80% !important;
+}
+
+.sloganBar { background:#CCCCCC !important; text-align:center;}
+.dashbrdSubNav a { color:#444 !important;}
+.userNm {color:#444 !important;}
+.userNm a {
+color: #4F74B6 !important;
+}
+
+.error{color:#ff0000; width:100%; font-size:12px; margin-left:10px}
+.sloganBar  h3{padding-bottom:0px !important; }
+
+.sloganWrap {
+    padding: 20px 5px 20px 0 !important;
+}
+
+.pricingWrap {
+    padding: 15px 0px 15px 20px !important;
+    width: 960px !important;
+}
+
+.dashbrdSubNav a:hover{color:#036 !important;}
+
+.popover.bottom.signupPOpanel {
+    position: absolute;
+    right: 56px !important;
+    top: 42px !important;
+}
+
+.stp5_colL .fldWrap input[type="password"] {
+    border-radius: 8px;
+    color: #222222;
+    font-size: 12px;
+    width: 65%;
+}
+
+
+.stp5_colL .fldWrap.newpwd input[type="password"] {
+    border-radius: 8px;
+    color: #222222;
+    font-size: 12px;
+    width: 89.8%;
+}
+#contact_form textarea {height:100px;}
+.stp5_colL .fldWrap.txtArea {height:auto;}
+.icon_dash,
+.icon_home,
+.icon_services,
+.icon_project,
+.icon_video,
+.icon_widget,
+.icon_login,
+.icon_logout,
+.icon_support {display:inline-block; width:14px; height:14px; vertical-align:-3px;}
+.icon_dash {background:url(../images/dashboard.png) 0 -17px no-repeat;}
+.icon_home {background:url(../images/home.png) 0 -17px no-repeat;}
+.icon_services {background:url(../images/services.png) 0 -17px no-repeat;}
+.icon_project {background:url(../images/project.png) 0 -17px no-repeat;}
+.icon_video {background:url(../images/video.png) 0 -17px no-repeat;}
+.icon_widget {background:url(../images/widget.png) 0 -17px no-repeat;}
+.icon_support {background:url(../images/support.png) 0 -17px no-repeat;}
+.icon_login {background:url(../images/login.png) 0 -17px no-repeat;}
+.icon_logout {background:url(../images/logout.png) 0 -17px no-repeat;}
+
+li:hover a {color:#31AEF2;}
+li:hover .icon_dash, li.selected .icon_dash,
+li:hover .icon_home, li.selected .icon_home,
+li:hover .icon_services, li.selected .icon_services,
+li:hover .icon_project, li.selected .icon_project,
+li:hover .icon_video, li.selected .icon_video,
+li:hover .icon_widget, li.selected .icon_widget,
+li:hover .icon_support, li.selected .icon_support {background-position:0 0;}
+
+/** ---- Pagination Style Addred By abhishek Dated 26 NOv---- **/
+.paging {
+	width:670px;
+	float:right;
+	margin-top:10px;
+}
+ul.pagination {
+	margin:0px;
+	padding:0px;
+	height:100%;
+	overflow:hidden;
+	font-size:12px;
+	list-style-type:none;
+	float:right;
+}
+ul.pagination li {
+	float:left;
+	margin:0px;
+	padding:0px;
+	margin-left:5px;
+}
+ul.pagination li:first-child {
+	margin-left:0px;
+}
+ul.pagination li a {
+	color:#717171;
+	display:block;
+	text-decoration:none;
+	padding:5px 10px 5px 10px;
+}
+ul.pagination li a img {
+	border:none;
+}
+ul.paginationA li a {
+	color:#FFFFFF;
+	border-radius:3px;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+}
+ul.paginationA01 li a {
+	color:#474747;
+	border:solid 1px #bdc3c5;
+	padding:4px 9px 4px 9px;
+	background:#fcfcfc;
+}
+ul.paginationA01 li a:hover, ul.paginationA01 li.selected a {
+	background:#676767;
+	color:#f2f2f2;
+}
+input[type="radio"] {margin:-3px 0 0;}
+input[type="checkbox"] {margin:8px 0 0;}
